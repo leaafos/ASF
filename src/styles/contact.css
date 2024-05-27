@@ -11,8 +11,6 @@
 .contact-info {
     display: flex;
     margin: 32px 32px 0 32px;
-    background-image: url("../images/fondBlanc.png");
-    background-size: cover contain;
     text-size-adjust: 18px;
 }
 
@@ -82,7 +80,7 @@
 
 .numero {
     min-height: 36px;
-    background-image: url('../images/iconeTelephone.png');
+    background-image: url('../images/Contact/iconeTelephone.png');
     background-repeat: no-repeat;
     background-position: center left;
 }
@@ -103,7 +101,7 @@
     position: relative;
     margin-top: 2%;
     width: 100%;
-    background-image: url(../images/bandeau-contact-formulaire.png);
+    background-image: url("../images/Contact/bandeau-contact-formulaire.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }

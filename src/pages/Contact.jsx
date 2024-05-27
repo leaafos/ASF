@@ -1,11 +1,10 @@
 import React from 'react';
 import "../styles/contact.css";
-import BandeauContact from '../images/bandeauContact.png';
-import Carte from "../images/carteContact.png";
-import Localisation from "../images/iconeLocalisation.png";
-import Horaire from "../images/iconeHoraire.png";
-import Souris from "../images/iconeSouris.png";
-import Telephone from "../images/iconeTelephone.png";
+import BandeauContact from '../images/Contact/bandeauContact.png';
+import Carte from "../images/Contact/carteContact.png";
+import Localisation from "../images/Contact/iconeLocalisation.png";
+import Horaire from "../images/Contact/iconeHoraire.png";
+import Souris from "../images/Contact/iconeSouris.png";
 import ContactForm from "../components/FormulaireContact.jsx";
 import ZigZag from "../images/zigzag.png";
 

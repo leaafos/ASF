@@ -63,7 +63,7 @@
 .formulaire-benevole {
     width: 100%;
     height: 100%;
-    background-image: url(../images/bandeau-benevole-formulaire.png);
+    background-image: url("../images/Benevoles/bandeau-benevole-formulaire.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;

@@ -1,9 +1,9 @@
 import React from 'react';
 import "../styles/historique.css";
-import Bandeau from "../images/bandeau-historique.png";
-import ImageHistoire from "../images/photo-historique.png";
+import Bandeau from "../images/Historique/bandeau-historique.png";
+import ImageHistoire from "../images/Historique/photo-historique.png";
 import ZigZag from "../images/zigzag.png";
-import BandeauSeparation from "../images/bandeau-separation-historique.png";
+import BandeauSeparation from "../images/Historique/bandeau-separation-historique.png";
 
 const Historique = () => {
   return (

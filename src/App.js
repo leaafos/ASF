@@ -1,11 +1,12 @@
 
 import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Home from './components/Home.jsx';
-import Contact from './components/Contact.jsx';
-import Historique from './components/Historique.jsx';
-import Benevole from './components/Benevole.jsx';
+import Home from './pages/Home.jsx';
+import Contact from './pages/Contact.jsx';
+import Historique from './pages/Historique.jsx';
+import Benevole from './pages/Benevole.jsx';
 import ErrorBoundary from './ErrorBoundary.js';
+import Aikido from './pages/sports/Aikido.jsx';
 
 
 function App() {
@@ -27,6 +28,9 @@ function App() {
                   <li>
                     <Link to="/benevole">Bénévole</Link>
                   </li>
+                  <li>
+                    <Link to="/aikido">Aikido</Link>
+                  </li>
                 </ul>
               </nav>
 
@@ -35,6 +39,7 @@ function App() {
                   <Route path="/contact" element={<Contact/>}/>
                   <Route path="/historique" element={<Historique/>}/>
                   <Route path="/benevole" element={<Benevole/>}/>
+                  <Route path="/aikido" element={<Aikido/>}/>
               </Routes>
             </div>
         </Router>

@@ -1,17 +1,16 @@
 import React from 'react';
 import "../styles/benevole.css";
-import BandeauBenevole from "../images/fondBénévole.png";
-import Case1 from "../images/case1.png";
-import Case2 from "../images/case2.png";
-import Case3 from "../images/case3.png";
-import Case4 from "../images/case4.png";
-import Case5 from "../images/case5.png";
-import Case6 from "../images/case6.png";
-import Case7 from "../images/case7.png";
-import Case8 from "../images/case8.png";
-import Case9 from "../images/case9.png";
+import BandeauBenevole from "../images/Benevoles/fondBénévole.png";
+import Case1 from "../images/Benevoles/case1.png";
+import Case2 from "../images/Benevoles/case2.png";
+import Case3 from "../images/Benevoles/case3.png";
+import Case4 from "../images/Benevoles/case4.png";
+import Case5 from "../images/Benevoles/case5.png";
+import Case6 from "../images/Benevoles/case6.png";
+import Case7 from "../images/Benevoles/case7.png";
+import Case8 from "../images/Benevoles/case8.png";
+import Case9 from "../images/Benevoles/case9.png";
 import Zigzag from "../images/zigzag.png";
-import BandeauBenevoleFormulaire from "../images/bandeau-benevole-formulaire.png";
 import ContactFormBenevole from '../components/FormulaireBenevole';
 
 

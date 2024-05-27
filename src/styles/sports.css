@@ -1,0 +1,213 @@
+.header-aikido {
+    width: 100%;
+    height: 50vh;
+    background-image: url("../images/Sports/banniere-aikido.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.nom-sport {
+    margin-left: 64px;
+    font-family: 'roboto', sans-serif;
+}
+
+.saison {
+    margin-right: 64px;
+    font-family: 'roboto', sans-serif;
+}
+
+.infos {
+    margin: 32px 64px 32px 64px;
+}
+
+.infos h2 {
+    color: #B8BCEF;
+    font-family: 'roboto', sans-serif;
+}
+
+.infos hr {
+    color: #B8BCEF;
+}
+
+.methodes {
+    display: flex;
+    justify-content: space-between;
+    gap: 20%;
+}
+
+.methodes h4 {
+    color: #0913B1;
+    font-family: 'roboto', sans-serif;
+    width: 40%;
+}
+
+.titre-entrainements {
+    width: 100%;
+    display: flex;
+    gap: 10%;
+}
+
+.titre-entrainements div {
+    width: 100%;
+    color: #0913B1;
+    background-image: url("../images/Sports/ampoule.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.titre-entrainements p {
+    padding-left: 5%;
+}
+
+
+.entrainement-ligne {
+    width: 80%;
+    margin-right: 30%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+}
+
+.entrainement-ligne h4 {
+    width: 20%;
+    color: #0913B1;
+}
+
+.ligne {
+    width: 100%;
+}
+
+.inscription {
+    display: flex;
+}
+
+.inscription h4 {
+    color: #0913B1;
+    width: 40%;
+}
+
+.cotisations {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.case-cotisation {
+    min-width: 240px;
+    min-height: 240px;
+    margin-bottom: 32px;
+    background-color: #B8BCEF;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.prix-cotisation {
+    font-size: 52px;
+}
+
+.contacts {
+    display: flex;
+}
+
+.contacts h4 {
+    width: 30%;
+    color: #0913B1;
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .header-aikido {
+        height: 30vh;
+    }
+    
+    .nom-sport {
+        margin-left: 32px;
+    }
+
+    .saison {
+        margin-right: 32px;
+    }
+
+    .infos {
+        margin: 16px 32px 16px 32px;
+    }
+
+    .methodes {
+        display: flex;
+        justify-content: space-between;
+        gap: 10%;
+    }
+    
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .header-aikido {
+        height: 30vh;
+    }
+    
+    
+    .nom-sport {
+        margin-left: 32px;
+    }
+
+    .saison {
+        margin-right: 32px;
+    }
+
+    .infos {
+        margin: 16px 32px 16px 32px;
+    }
+
+    .methodes {
+        display: flex;
+        justify-content: space-between;
+        gap: 10%;
+    }
+
+    .cotisations {
+        width: 100%;
+        flex-direction: column;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    .header-aikido {
+        height: 20vh;
+    }
+    
+
+    .nom-sport {
+        margin-left: 16px;
+    }
+
+    .saison {
+        margin-right: 16px;
+    }
+
+    .infos {
+        margin: 8px 16px 8px 16px;
+    }
+
+    .methodes {
+        display: block;
+    }
+
+    .case {
+        margin-right: 0%;
+    }
+
+    .cotisations {
+        width: 100%;
+        flex-direction: column;
+    }
+    
+}
