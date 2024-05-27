@@ -1,0 +1,97 @@
+body {
+    color: #666666;
+}
+h3 {
+    color: #0913B1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-historique {
+    width: 100%;
+}
+
+.header-historique img {
+    width: 100%;
+}
+
+.histoire {
+    margin: 64px;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media (max-width: 1000px) {
+    .histoire {
+        margin: 32px;
+        flex-direction: column;
+    }
+
+    .presidents {
+        margin: 32px;
+    }
+}
+
+.histoire img {
+    width: 100%;
+}
+
+.presidents {
+    margin: 64px;
+}
+
+.separations {
+    width: 100%;
+}
+
+.separations img{
+    width: 100%;
+    margin: 0;
+}
+
+.separations .zigzag {
+    margin-top: -5%;
+}
+
+.assemblee-generale {
+    width: 100%;
+    margin-left: 64px;
+}
+
+.assemblee-generale h3{
+    color: #0913B1;
+}
+
+.arbre-assemblee-generale {
+    width: 80%;
+    display: grid;
+    gap: 10px;
+}
+
+.colonne {
+    display: grid;
+    gap: 10px;
+}
+
+.ligne1 {
+    grid-template-columns: repeat(1, 1fr); 
+}
+
+.ligne2 {
+    grid-template-columns: repeat(2, 1fr); 
+}
+
+.ligne3 {
+    grid-template-columns: repeat(4, 1fr); 
+}
+
+.ligne4 {
+    grid-template-columns: repeat(3, 1fr); 
+}
+
+.ligne5 {
+    grid-template-columns: repeat(2, 1fr); 
+}
+
+.case h3 {
+    color: #B8BCEF;
+}
