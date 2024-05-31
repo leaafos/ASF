@@ -21,7 +21,7 @@ const Benevole = () => {
         <img src={BandeauBenevole}></img>
       </div>
       <div className='description-benevole'>
-        <h2>NOTRE EQUIPE DE BENEVOLES VOUS ATTEND !</h2>
+        <h2>NOTRE ÉQUIPE DE BÉNÉVOLES VOUS ATTEND !</h2>
         <p>Devenir bénévole c'est :</p>
         <div className='cases'>
             <div className='colonne'>

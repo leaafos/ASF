@@ -32,12 +32,12 @@ const Contact = () => {
                     </div>
                     <div className='boite-réseaux'>
                         <img src={Souris} alt="souris-icone"></img>
-                        <h4>RESEAUX SOCIAUX</h4>
+                        <h4>RÉSEAUX SOCIAUX</h4>
                         <p>Facebook Instagram</p>
                     </div>
                 </div>
                 <div className='telephone'>
-                    <h4>TELEPHONE</h4>
+                    <h4>TÉLÉPHONE</h4>
                     <div className='numero'>
                         <p><b>01 46 01 98 01</b></p>
                     </div>
