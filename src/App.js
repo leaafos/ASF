@@ -12,6 +12,10 @@ import Badminton from './pages/sports/Badminton.jsx';
 import BasketBall from './pages/sports/Basketball.jsx';
 import BoxeThailandaise from './pages/sports/BoxeThailandaise.jsx';
 import Capoeira from './pages/sports/Capoeira.jsx';
+import EcoleDeDanse from './pages/sports/EcoleDeDanse.jsx';
+import EcoleDesSports from './pages/sports/EcoleDesSports.jsx';
+import Fitness from './pages/sports/FitnessGymBienetre.jsx';
+import Football from './pages/sports/Football.jsx';
 
 
 function App() {
@@ -50,6 +54,10 @@ function App() {
                   <Route path="/basketball" element={<BasketBall/>}/>
                   <Route path="/boxethailandaise" element={<BoxeThailandaise/>}/>
                   <Route path="/capoeira" element={<Capoeira/>}/>
+                  <Route path="/ecolededanse" element={<EcoleDeDanse/>}/>
+                  <Route path="/ecoledessports" element={<EcoleDesSports/>}/>
+                  <Route path="/fitness" element={<Fitness/>}/>
+                  <Route path="/football" element={<Football/>}/>
               </Routes>
             </div>
         </Router>

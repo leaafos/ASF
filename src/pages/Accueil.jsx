@@ -1,5 +1,6 @@
 import React from 'react';
 import "../styles/accueil.css";
+import BarreDeRecherche from '../components/BarreDeRecherche';
 import BandeauAccueil from "../images/Accueil/bandeau-accueil.png";
 
 const Accueil = () => {
@@ -9,7 +10,7 @@ const Accueil = () => {
           <img src={BandeauAccueil}></img>
       </div>
       <div className='barre-de-recherche'>
-          {/*barre de recherche ici */}
+        <BarreDeRecherche></BarreDeRecherche>
       </div>
       <div className='icones-deroulant'>
         {/*Liste des icones des sports */}

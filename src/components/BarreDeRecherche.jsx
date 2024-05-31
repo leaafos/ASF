@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Autosuggest from 'react-autosuggest';
 
 const sports = [
     "aikido",
@@ -8,7 +7,7 @@ const sports = [
     "basketball",
     "boxe thailandaise",
     "capoeira",
-    "dance",
+    "danse",
     "ecole des sports",
     "escrime",
     "fitness",
@@ -33,32 +32,51 @@ const sports = [
     "volleyball",
     "yoga"
 ];
-
-const getSuggestions = (value) => {
-    const inputValue = value.trim().toLowerCase();
-    const inputLenght = inputValue.lenght;
-
-    return inputLenght === 0 ? : sports.filter(sport =>
-        sport.toLowerCase().slice(0, inputLenght) === inputValue
-    );
-};
-
-const renderSuggestion = (suggestion) => (
-    <div>
-        {suggestion}
-    </div>
-);
-
-const SearchBar = () => {
-    const [value, setValue] = useState([]);
+const BarreDeRecherche = () => {
+    const [query, setQuery] = useState('');
     const [suggestions, setSuggestions] = useState([]);
-};
-
-const onChange = (event, {newValue}) => {
-    setValue(newValue);
-};
-
-const onSuggestionsFetchRequested = ({value}) => {
-    setSuggestions([]);
-}
+  
+    const handleChange = (e) => {
+        const value = e.target.value;
+        setQuery(value);
+  
+        if (value.length > 0) {
+            const filteredSuggestions = sports.filter((sport) =>
+            sport.toLowerCase().includes(value.toLowerCase())
+            );
+            setSuggestions(filteredSuggestions);
+        } else {
+            setSuggestions([]);
+        }
+        };
     
+    const handleSuggestionClick = (suggestion) => {
+      setQuery(suggestion);
+      setSuggestions([]);
+    };
+  
+    return (
+      <div>
+        <input
+          type="text"
+          value={query}
+          onChange={handleChange}
+          placeholder="Rerchercher un sport"
+        />
+        {suggestions.length > 0 && (
+          <ul >
+            {suggestions.map((suggestion, index) => (
+              <li
+                key={index}
+                onClick={() => handleSuggestionClick(suggestion)}
+              >
+                {suggestion}
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    );
+  };
+  
+  export default BarreDeRecherche;

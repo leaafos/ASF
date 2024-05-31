@@ -1,12 +1,12 @@
 import React from 'react';
 import "../../styles/sports.css";
 
-const Athletisme = () => {
+const EcoleDesSports = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header ecoledessports'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>ECOLE DES SPORTS</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -16,8 +16,8 @@ const Athletisme = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNES</h4>
+                <p>Sports collectifs / Sports d'oppositions / Sports de raquettes <br/>Les enfants sont répartis par groupe (max 15) et par âge. La répartition sera faite par les encadrants. Les enfants tourneront sur les différents cycles d'activités au cours de l'année ( 2 sites : Gymnase Jean Fournier et Gymnase du Parc).<br/>Les adultes découvriront de nouveaux sports à chaque séance afin de trouver celui qui pourrait leur correspondre ou simplement de se défouler en toute sécurité sans jamais se lasser.<br/>Un accompagnement des enfants de classes élémentaires est prévu afin de les amener sur les lieux de leurs centres de loisirs (Ecole du parc - La Fontaine).<br/>Les enfants de la maternelle (grande section) restent à la charge de leurs parents à la fin de l’activité.</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,28 +28,15 @@ const Athletisme = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
+                    <h4>5 A 12 ANS</h4>
+                    <p><b>HALLE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses <br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses </p>
+                    <p><b>MERCREDI 08H30-12H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
-                </div>
-                {/*<hr className='ligne'></hr>*/}
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
-                </div>
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>ADULTES</h4>
+                    <p><b>GYMNASE</b><br /><br />Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
+                    <p><b>DIMANCHE 17H45-19H45</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,45 +50,30 @@ const Athletisme = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>ENFANTS</b></p>
+                        <p className='prix-cotisation'><b>300€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
-                    </div>
-                </div>
-                <div className='ligne-cotisations'>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>ADULTES</b></p>
+                        <p className='prix-cotisation'><b>175€</b></p>
                     </div>
                 </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>INTERVENANTE JULIE PALENZUELA :</h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> j.palenzuela95@hotmail.fr</span>
+            </div>
+            <div className='contacts'>
+                <h4>PRESIDENT CHRISTOPHE MEYNIAL</h4>
+                <span className='label'>Mail : </span>
+                <span className='email'> c.meynial@as-fontenay.fr</span>
             </div>
         </div>
     </div>
   );
 };
 
-export default Athletisme;
+export default EcoleDesSports;

@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const EcoleDeDanse = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header ecolededanse'>
             <div className='nom-sport'>
                 <h1>ECOLE DE DANSE</h1>
             </div>
@@ -156,7 +156,7 @@ const EcoleDeDanse = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div className='cotisations-lignes'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>DANSE CLASSIQUE:</b><i>9 - 11 ans</i>< br/><b>HIP HOP:</b><i>6 - 16 ans</i>< br/><b>DANSE JAZZ:</b><i>3 - 16 ans</i>< br/><b>STREET JAZZ :</b><i>6 - 16 ans</i>< br/></p>
@@ -176,30 +176,31 @@ const EcoleDeDanse = () => {
                 </div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
+                        <p><b>DANSE JAZZ ADULTES</b></p>
+                        <p className='prix-cotisation'><b>380€</b></p>
+                        <p><i>1 heure 30</i></p>
+
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>DANSE STREET JAZZ ADULTES </b></p>
+                        <p className='prix-cotisation'><b>295€</b></p>
+                        <p><i>1 heure</i></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>SPORT SANTE ADULTES</b></p>
+                        <p className='prix-cotisation'><b>105€</b></p>
+                        <p><i>1 heure - 10 séances</i></p>
+                        <p><b>FORFAIT ANNUEL : 200€</b></p>
+
                     </div>
                 </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>PRESIDENTE</h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> asf.danse.far@gmail.com</span>
             </div>
         </div>
     </div>
