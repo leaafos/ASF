@@ -1,7 +1,7 @@
 import React from 'react';
 import "../../styles/sports.css";
 
-const Yoga = () => {
+const Parkour = () => {
   return (
     <div>
         <div className='header athletisme'>
@@ -104,4 +104,4 @@ const Yoga = () => {
   );
 };
 
-export default Yoga;
+export default Parkour;

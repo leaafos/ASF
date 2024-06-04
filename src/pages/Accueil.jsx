@@ -1,5 +1,6 @@
 import React from 'react';
 import "../styles/accueil.css";
+import ListeIcones from '../components/ListeIcones';
 import BarreDeRecherche from '../components/BarreDeRecherche';
 import BandeauAccueil from "../images/Accueil/bandeau-accueil.png";
 
@@ -13,7 +14,7 @@ const Accueil = () => {
         <BarreDeRecherche></BarreDeRecherche>
       </div>
       <div className='icones-deroulant'>
-        {/*Liste des icones des sports */}
+        <ListeIcones></ListeIcones>
       </div>
       <div className='evenements'>
           <div className='event1'>

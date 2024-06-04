@@ -1,7 +1,7 @@
 import React from 'react';
 import "../../styles/sports.css";
 
-const Athletisme = () => {
+const MarcheNordique = () => {
   return (
     <div>
         <div className='header athletisme'>
@@ -104,4 +104,4 @@ const Athletisme = () => {
   );
 };
 
-export default Athletisme;
+export default MarcheNordique;

@@ -1,4 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
+import { useNavigate } from 'react-router-dom';
+import "../styles/barreDeRecherche.css";
 
 const sports = [
     "aikido",
@@ -35,6 +37,33 @@ const sports = [
 const BarreDeRecherche = () => {
     const [query, setQuery] = useState('');
     const [suggestions, setSuggestions] = useState([]);
+    const [debouncedQuery, setDebouncedQuery] = useState([]);
+    const navigate = useNavigate();
+
+    //Debouncing
+    useEffect(() => {
+      const handler = setTimeout(() => {
+          setDebouncedQuery(query);
+      }, 300);
+
+      return () => {
+        clearTimeout(handler);
+      };
+    }, [query]);
+
+    const filteredSuggestions = useMemo(() => {
+      if (debouncedQuery.length > 0) {
+          return sports.filter((sport) =>
+              sport.toLowerCase().includes(debouncedQuery.toLowerCase())
+          );
+      } else {
+          return [];
+      }
+    }, [debouncedQuery]);
+
+    useEffect(() => {
+      setSuggestions(filteredSuggestions);
+    }, [filteredSuggestions]);
   
     const handleChange = (e) => {
         const value = e.target.value;
@@ -53,16 +82,20 @@ const BarreDeRecherche = () => {
     const handleSuggestionClick = (suggestion) => {
       setQuery(suggestion);
       setSuggestions([]);
+      navigate(`/${suggestion}`)
     };
   
     return (
-      <div>
-        <input
-          type="text"
-          value={query}
-          onChange={handleChange}
-          placeholder="Rerchercher un sport"
-        />
+      <div className='barre-de-recherches-container'>
+        <div className='barre-de-recherches'>
+          <input
+            type="text"
+            value={query}
+            onChange={handleChange}
+            placeholder="Rerchercher un sport"
+          />
+        </div>
+        
         {suggestions.length > 0 && (
           <ul >
             {suggestions.map((suggestion, index) => (

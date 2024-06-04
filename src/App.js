@@ -14,8 +14,26 @@ import BoxeThailandaise from './pages/sports/BoxeThailandaise.jsx';
 import Capoeira from './pages/sports/Capoeira.jsx';
 import EcoleDeDanse from './pages/sports/EcoleDeDanse.jsx';
 import EcoleDesSports from './pages/sports/EcoleDesSports.jsx';
+import Escrime from './pages/sports/Escrime.jsx';
 import Fitness from './pages/sports/FitnessGymBienetre.jsx';
 import Football from './pages/sports/Football.jsx';
+import GymnastiqueArtistique from './pages/sports/GymnastiqueArtistique.jsx';
+import GymnastiqueRythmique from './pages/sports/GymnastiqueRythmique.jsx';
+import Handball from './pages/sports/Handball.jsx';
+import JudoJuJitsu from './pages/sports/JudoJuJitsu.jsx';
+import Karate from './pages/sports/Karate.jsx';
+import KungFu from './pages/sports/KungFu.jsx';
+import MarcheNordique from './pages/sports/MarcheNordique.jsx';
+import Natation from './pages/sports/Natation.jsx';
+import Parkour from './pages/sports/Parkour.jsx';
+import Petanque from './pages/sports/Petanque.jsx';
+import Rugby from './pages/sports/Rugby.jsx';
+import Squash from './pages/sports/Squash.jsx';
+import TaeKwonDo from './pages/sports/TaeKwonDo.jsx';
+import Tennis from './pages/sports/Tennis.jsx';
+import TennisDeTable from './pages/sports/TennisDeTable.jsx';
+import VolleyBall from './pages/sports/VolleyBall.jsx';
+import Yoga from './pages/sports/Yoga.jsx';
 
 
 function App() {
@@ -56,8 +74,26 @@ function App() {
                   <Route path="/capoeira" element={<Capoeira/>}/>
                   <Route path="/ecolededanse" element={<EcoleDeDanse/>}/>
                   <Route path="/ecoledessports" element={<EcoleDesSports/>}/>
+                  <Route path="/escrime" element={<Escrime/>}/>
                   <Route path="/fitness" element={<Fitness/>}/>
                   <Route path="/football" element={<Football/>}/>
+                  <Route path="/gymnastiqueartistique" element={<GymnastiqueArtistique/>}/>
+                  <Route path="/gymnastiquerythmique" element={<GymnastiqueRythmique/>}/>
+                  <Route path="/handball" element={<Handball/>}/>
+                  <Route path="/judojujitsu" element={<JudoJuJitsu/>}/>
+                  <Route path="/karate" element={<Karate/>}/>
+                  <Route path="/kungfu" element={<KungFu/>}/>
+                  <Route path="/marchenordique" element={<MarcheNordique/>}/>
+                  <Route path="/natation" element={<Natation/>}/>
+                  <Route path="/parkour" element={<Parkour/>}/>
+                  <Route path="/petanque" element={<Petanque/>}/>
+                  <Route path="/rugby" element={<Rugby/>}/>
+                  <Route path="/squash" element={<Squash/>}/>
+                  <Route path="/taekwondo" element={<TaeKwonDo/>}/>
+                  <Route path="/tennis" element={<Tennis/>}/>
+                  <Route path="/tennisdetable" element={<TennisDeTable/>}/>
+                  <Route path="/volleyball" element={<VolleyBall/>}/>
+                  <Route path="/yoga" element={<Yoga/>}/>
               </Routes>
             </div>
         </Router>

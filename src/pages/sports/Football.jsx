@@ -142,14 +142,17 @@ const Football = () => {
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
                 <h4>ASF FOOTBALL :</h4>
-                <span className='label'>Mail : </span>
-                <span className='email'> football@as-fontenay.fr</span>
-                <span className='label'>Téléphone : </span>
-                <span className='email'> 06 68 75 53 41</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asf-football.net</span>
-                <span className='label'> Instagram : </span>
-                <span className='email'> @asf_football92</span>
+                <div className='infos-contact'>
+                    <span className='label'>Mail : </span>
+                    <span className='email'> football@as-fontenay.fr</span>
+                    <span className='label'>Téléphone : </span>
+                    <span className='email'> 06 68 75 53 41</span>
+                    <span className='label'>Site Web : </span>
+                    <span className='email'> www.asf-football.net</span>
+                    <span className='label'> Instagram : </span>
+                    <span className='email'> @asf_football92</span>
+                </div>
+
             </div>
         </div>
     </div>
