@@ -89,7 +89,7 @@ const ContactFormBenevole = () => {
           required
         />
       </div>
-      <button type="submit">Je demande à devenir bénévole</button>
+      <button type="submit" className='bouton-formulaire'>Je demande à devenir bénévole</button>
     </form>
   );
 };

@@ -35,7 +35,7 @@
   min-height: 100px;
 }
   
-button {
+.bouton-formulaire {
   padding: 0.7em;
   color: #fff;
   background-color: #FF6D6F;
@@ -45,6 +45,6 @@ button {
   font-size: 1em;
 }
   
-button:hover {
+.bouton-formulaire:hover {
   background-color: #f6595c;
 }

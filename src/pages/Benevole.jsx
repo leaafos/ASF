@@ -76,7 +76,7 @@ const Benevole = () => {
           <ContactFormBenevole></ContactFormBenevole>
         </div>
           <div className='connexion-benevole'>
-            <button>Se connecter</button>
+            <button className='bouton-formulaire'>Se connecter</button>
           </div>
       </div>
 

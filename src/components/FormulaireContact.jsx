@@ -89,7 +89,7 @@ const ContactForm = () => {
           required
         />
       </div>
-      <button type="submit">ENVOYER LE FORMULAIRE</button>
+      <button type="submit" className='bouton-formulaire'>ENVOYER LE FORMULAIRE</button>
     </form>
   );
 };

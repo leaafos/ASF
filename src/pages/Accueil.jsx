@@ -17,28 +17,28 @@ const Accueil = () => {
         <ListeIcones></ListeIcones>
       </div>
       <div className='evenements'>
-          <div className='event1'>
+          <div className='event event1'>
             <div className='heureDate'>
               <p>SAMEDI 25 MAI</p>
               <p>13:00 - 19:00</p>
             </div>
             <h5>LASER RUN</h5>
           </div>
-          <div className='event2'>
+          <div className='event event2'>
             <div className='heureDate'>
               <p>SAMEDI 25 MAI</p>
               <p>13:00 - 19:00</p>
             </div>
             <h5>ESPORT</h5>
           </div>
-          <div className='event3'>
+          <div className='event event3'>
             <div className='heureDate'>
               <p>JEUDI 27 JUIN</p>
               <p>10:00 - 12:00 <br/>13:00 - 16:00</p>
             </div>
             <h5>TOURNOI DE RUGBY</h5>
           </div>
-          <div className='event4'>
+          <div className='event event4'>
             <div className='heureDate'>
               <p>8 ET 9 JUIN</p>
               <p>09:00 - 17:30</p>
@@ -46,6 +46,9 @@ const Accueil = () => {
             <h5>TOURNOI DE FOOT</h5>
           </div>
       </div>
+      <button className='bouton-event'>
+          <p>VOIR TOUS LES EVENEMENTS</p>
+      </button>
     </div>
   );
 };
