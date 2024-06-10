@@ -34,6 +34,7 @@ import Tennis from './pages/sports/Tennis.jsx';
 import TennisDeTable from './pages/sports/TennisDeTable.jsx';
 import VolleyBall from './pages/sports/VolleyBall.jsx';
 import Yoga from './pages/sports/Yoga.jsx';
+import Menu from './components/Menu.jsx';
 
 
 function App() {
@@ -41,25 +42,8 @@ function App() {
     <ErrorBoundary>
          <Router>
             <div>
-              <nav>
-                <ul>
-                  <li>
-                    <Link to="/">Accueil</Link>
-                  </li>
-                  <li>
-                    <Link to="/contact">Contact</Link>
-                  </li>
-                  <li>
-                    <Link to="/historique">Historique</Link>
-                  </li>
-                  <li>
-                    <Link to="/benevole">Bénévole</Link>
-                  </li>
-                  <li>
-                    <Link to="/aikido">Aikido</Link>
-                  </li>
-                </ul>
-              </nav>
+              <Menu></Menu>
+              
 
               <Routes>
                   <Route path="/" element={<Accueil/>}/>

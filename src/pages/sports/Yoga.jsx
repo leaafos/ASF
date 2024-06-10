@@ -6,7 +6,7 @@ const Yoga = () => {
     <div>
         <div className='header athletisme'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>YOGA</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -16,8 +16,8 @@ const Yoga = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNES </h4>
+                <p>Hatha yoga dans la lignée de Madras (Professeur diplômée FNEY)<br/><br/>La séance (1h15) débute par une mise en route musculaire et respiratoire progressive, sur le chemin du lâcher-prise.<br/>Elle se poursuit par la pratique posturale qui mobilise les cinq sens de la colonne vertébrale de façon dynamique et statique, dans le respect de chaque pratiquant.<br/><br/>L'accent est mis sur l'attention permanente au souffle et au ressenti.<br/>Les bénéfices de cette séquence d'exercices sont pleinement intégrés lors de la détente.<br/>Puis le travail respiratoire est le prélude à l'assise, grâce au calme intérieur et à la verticalité que la séance a permis d'apprivoiser.</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,28 +28,9 @@ const Yoga = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
-                </div>
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
-                </div>
-                {/*<hr className='ligne'></hr>*/}
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
-                </div>
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>18 ANS ET +</h4>
+                    <p><b>SALLE BIEN ÊTRE</b><br /><br />Gymnase du Parc 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 18H30-19H45 <br/>MARDI 20H30-21H15 <br/>MERCREDI 12H15-13H30 <br/>JEUDI 10H30-11H45 <br/>VENDREDI 17H30-18H45 <br/>VENDREDI 19H00-20H15 <br/></b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,41 +44,31 @@ const Yoga = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>18 A 25 ANS</b></p>
+                        <p className='prix-cotisation'><b>235€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
-                    </div>
-                </div>
-                <div className='ligne-cotisations'>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>ADULTES</b></p>
+                        <p className='prix-cotisation'><b>290€</b></p>
                     </div>
                 </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>PRESIDENT JEAN FRANCOIS BRESSE</h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> jeff.bresse@orange.fr</span>
+            </div>
+            <div className='contacts'>
+                <h4>PROFESSEUR (DIPLÔMEE FNEY) MME VERNARDET : </h4>
+                <span className='label'>Mail : </span>
+                <span className='email'> av_vernardet@sfr.fr</span>
+            </div>
+            <div className='contacts'>
+                <h4>POUR D'AUTRES RENSEIGNEMENTS OU FAIRE UNE SEANCE D'ESSAI, ENVOYEZ UN MAIL A L'ADRESSE :</h4>
+                <span className='label'>Mail : </span>
+                <span className='email'> fontyoga@gmail.com</span>
             </div>
         </div>
     </div>

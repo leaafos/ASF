@@ -6,7 +6,7 @@ const TaeKwonDo = () => {
     <div>
         <div className='header athletisme'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>TAE KWON DO</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -16,8 +16,8 @@ const TaeKwonDo = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNES</h4>
+                <p>La section ASF Taekwondo a développé une catégorie Baby Taekwondo pour les enfants âgés de 3 à 5 ans. À cet âge où l’énergie est parfois débordante, le Taekwondo représente une vraie solution. En effet, cet art martial permet d’apprendre à se mouvoir plus efficacement et aborde les techniques de base du Taekwondo. Ainsi, parcours de motricité, assouplissements, premières frappes sur cible et légers renforcements musculaires sont au programme des séances pour les petits baptisés « Babys ninjas ». Cet Art Martial s'adresse aussi aux plus grands, en favorisant l’apprentissage par la technique et le combat.</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,28 +28,40 @@ const TaeKwonDo = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
+                    <h4>BABY NINJAS 3 - 4 ANS</h4>
+                    <p><b>DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 10H30-11H15</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
+                    <h4>BABY NINJAS 3 - 5 ANS</h4>
+                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 15H00-16H00< br/>MERCREDI 16H30 - 17H30< br/>JEUDI 17H00 - 18H00</b></p>
                 </div>
                 {/*<hr className='ligne'></hr>*/}
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
+                    <h4>BABY NINJAS 5-6 ANS</h4>
+                    <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 17H30-18H30<br />SAMEDI 11H15-12H15</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>GRANDS NINJAS 6 - 10 ANS</h4>
+                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 18H30-19H30< br/>MERCREDI 17H30-18H30<br/><br/>MERCREDI 14H00-15H00< br/>SAMEDI 14H00-15H00<br/><br/>JEUDI 18H00 - 19H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ADOS 11 - 15 ANS</h4>
+                    <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><br/><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 18H30-19H30< br/>MERCREDI 18H30-19H30<br/><br/>SAMEDI 15H00-16H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ADOS / ADULTES 16 ANS ET +</h4>
+                    <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><br/><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI< br/>MERCREDI 19H30-21H00<br/><br/>VENDREDI 19H45-21H15</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,41 +75,32 @@ const TaeKwonDo = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>BABY NINJA 3 A 6 ANS / GRANDS NINJAS 6 A 10 ANS</b></p>
+                        <p className='prix-cotisation'><b>270€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
+                        <p><b>ADOS 11 A 15 ANS</b></p>
+                        <p className='prix-cotisation'><b>300€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>ADOS / ADULTES 16 ANS ET +</b></p>
+                        <p className='prix-cotisation'><b>330€</b></p>
                     </div>
                 </div>
-                <div className='ligne-cotisations'>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
-                    </div>
-                </div>
+                <h4>REMISE DE 10% A PARTIR DU 2EME ENFANT LORS DE L'INSCRIPTION EN LIGNE SUR MONCLUB AVEC LE CODE DE REMISE FRATERIE10</h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>ASF TAE KWON DO</h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
+                <span className='email'> asftkd@gmail.com</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>07 60 62 91 21</span>
                 <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> www.sptrainingfontenayauxroses.com</span>
+                <span className='label'>Instagram : </span>
+                <span className='email'> asftaekwondo</span>
             </div>
         </div>
     </div>

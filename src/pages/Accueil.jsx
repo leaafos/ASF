@@ -3,6 +3,11 @@ import "../styles/accueil.css";
 import ListeIcones from '../components/ListeIcones';
 import BarreDeRecherche from '../components/BarreDeRecherche';
 import BandeauAccueil from "../images/Accueil/bandeau-accueil.png";
+import Photo1 from "../images/Accueil/photosEtVideos/photo1.png";
+import Photo2 from "../images/Accueil/photosEtVideos/photo2.png";
+import Photo3 from "../images/Accueil/photosEtVideos/photo3.png";
+import Video1 from "../images/Accueil/photosEtVideos/video1.png";
+import Video2 from "../images/Accueil/photosEtVideos/video2.png";
 
 const Accueil = () => {
   return (
@@ -46,9 +51,37 @@ const Accueil = () => {
             <h5>TOURNOI DE FOOT</h5>
           </div>
       </div>
-      <button className='bouton-event'>
-          <p>VOIR TOUS LES EVENEMENTS</p>
+      <div className='bouton'>
+        <button className='bouton-accueil'>
+          <h4>VOIR TOUS LES EVENEMENTS</h4>
       </button>
+      </div>
+      <div className='chiffres-cles'>
+          <div className='chiffre1'>
+            <h4>SPORTS</h4>
+          </div>
+          <div className='chiffre2'>
+            <h4>ADHERENTS</h4>
+          </div>
+          <div className='chiffre3'>
+            <h4>ANNEES</h4>
+          </div>
+      </div>
+      <div className='photos-videos'>
+        <h4>ALBUMS PHOTOS ET VIDEOS</h4>
+        <div className='container-images'>
+          <img src={Photo1}></img>
+          <img src={Photo2}></img>
+          <img src={Photo3}></img>
+          <img src={Video1}></img>
+          <img src={Video2}></img>
+        </div>
+        <div className='bouton'>
+           <button className='bouton-accueil'>
+              <h4>VOIR LES ALBUMS</h4>
+          </button>
+        </div>
+      </div>
     </div>
   );
 };
