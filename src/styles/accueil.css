@@ -61,6 +61,7 @@
 
 .evenements {
     width: 100%;
+    margin-top: 64px;
     min-height: 300px;
     padding-bottom: 64px;
     background-image: url("../images/Accueil/fond-bleu.png");
@@ -95,7 +96,7 @@
 }
 
 .event3 {
-    background-image: url("../images/Accueil/evenements/tournoisDeRugby.png");
+    background-image: url("../images/Accueil/evenements/tournoiDeRugby.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -119,6 +120,8 @@
 }
 
 .bouton-accueil {
+    padding-left: 16px;
+    padding-right: 16px;
     border: 1.5px solid #0913B1;
     color: #0913B1;
     background: none;
@@ -137,6 +140,7 @@
 
 .chiffres-cles {
     width: 100%;
+    margin-top: 64px;
     display: flex;
     justify-content: space-around;
     align-items: center;

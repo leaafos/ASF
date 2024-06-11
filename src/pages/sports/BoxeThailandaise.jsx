@@ -48,7 +48,7 @@ const BoxeThailandaise = () => {
                     <p className='prix-cotisation'><b>300€</b></p>
                 </div>
             </div>
-            <p>Remise de 10% à partir du 2ème enfant lors de l'inscription en ligne sur MonClub avec le code de remise FRATERIE10</p>
+            <h4>Remise de 10% à partir du 2ème enfant lors de l'inscription en ligne sur MonClub avec le code de remise FRATERIE10</h4>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>

@@ -36,7 +36,7 @@ const Parkour = () => {
                 <div className='entrainement-ligne'>
                     <h4>16 ANS ET +</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 15H00-17H00< br/>(SOUS RESERVE DU NOMBRE DE PARTICIPANTS)</b></p>
+                    <p><b>SAMEDI 15H00-17H00</b>< br/><i>(SOUS RESERVE DU NOMBRE DE PARTICIPANTS)</i></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -50,7 +50,7 @@ const Parkour = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>9-17 ANS et + /ADULTES</b></p>
+                        <p><b>9-17 ANS ET + /ADULTES</b></p>
                         <p className='prix-cotisation'><b>300€</b></p>
                     </div>
                 </div>

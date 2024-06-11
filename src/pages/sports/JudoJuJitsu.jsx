@@ -17,7 +17,7 @@ const JudoJuJitsu = () => {
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
                 <h4>COURS ENSEIGNES</h4>
-                <p>Le Judo est un Art Martial, un sport de combat, mais aussi et surtout (comme le voulait son fondateur Jigoro Kano) une école de la vie  dictée par un code moral. Son respect est la condition première de la pratique du judo. Il est fait de valeurs essentielles applicables aussi bien sur le « tatami » que dans la vie de tous les jours : <br/><br/>- La politesse : C’est le respect d’autrui<br/>- Le courage : C’est faire ce qui est juste<br/>-La sincérité : C’est s’exprimer sans déguiser sa pensée<br/>- L’honneur : C’est être fidèle à la parole donnée<br/>- La modestie : C’est parler de soi sans orgueil <br/>- Le respect : C’est faire naitre la confiance<br/> - Le contrôle de soi : C’est faire taire sa colère<br/> - L’amitié : C’est le plus pur des sentiments humains.<br/><br/>Club affilié à la Fédération Française de Judo et Disciplines Associées (F.F.J.D.A).</p>
+                <p>Le Judo est un Art Martial, un sport de combat, mais aussi et surtout (comme le voulait son fondateur Jigoro Kano) une école de la vie  dictée par un code moral. Son respect est la condition première de la pratique du judo. Il est fait de valeurs essentielles applicables aussi bien sur le « tatami » que dans la vie de tous les jours : <br/><br/>- La politesse : C’est le respect d’autrui<br/>- Le courage : C’est faire ce qui est juste<br/>- La sincérité : C’est s’exprimer sans déguiser sa pensée<br/>- L’honneur : C’est être fidèle à la parole donnée<br/>- La modestie : C’est parler de soi sans orgueil <br/>- Le respect : C’est faire naitre la confiance<br/> - Le contrôle de soi : C’est faire taire sa colère<br/> - L’amitié : C’est le plus pur des sentiments humains.<br/><br/>Club affilié à la Fédération Française de Judo et Disciplines Associées (F.F.J.D.A).</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -35,49 +35,49 @@ const JudoJuJitsu = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>EVEILS CONFIRMES JANV. A JUIN. 2018</h4>
-                    <p><b>DOJO 2 / DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br/> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 16H00-17H00<br/>MARDI 17H45-18H45<br/>VENDREDI 17H45-18H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>PRE-POUSSINS 2016 - 2017</h4>
-                    <p><b>DOJO 2 / DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 16H00-17H00<br/>MARDI 17H45-18H45<br/>VENDREDI 17H45-18H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>POUSSINS 2014 - 2015</h4>
-                    <p><b>DOJO 2 / DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 15H00-16H00<br/>MARDI 15H00-16H00<br/>VENDREDI 18H45-19H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>BENJAMINS 2012 - 2013</h4>
-                    <p><b>DOJO 2 / DOJO 1+2 / DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2 <br /> DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H00-19H30<br/>JEUDI 18H00-19H30<br/>MERCREDI 14H00-15H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>MINIMES 2010 - 2011</h4>
-                    <p><b>DOJO 2 / DOJO 1+2 / DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2 <br /> DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H00-19H30<br/>JEUDI 18H00-19H30<br/>MERCREDI 18H00-19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>CADETS 2007 - 2009</h4>
-                    <p><b>DOJO 2 / DOJO 1+2 / DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2 <br /> DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 19H45-21H15<br/>JEUDI 19H45-21H15<br/>MERCREDI 18H00-19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>JUNIORS ET ADLUTES (2006 ET AVANT)</h4>
-                    <p><b>DOJO 2 / DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 19H45-21H15<br/>JEUDI 19H45-21H15</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>JU JITSU 2006 ET AVANT</h4>
-                    <p><b>DOJO 2 / DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 2 <br /> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MARDI 19H45-21H15<br/>JEUDI 19H45-21H15</b></p>
                 </div>
             </div>
@@ -89,7 +89,7 @@ const JudoJuJitsu = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>EVEIL (JUIL. A DEC. 2018 - 2019)</b></p>
@@ -107,7 +107,7 @@ const JudoJuJitsu = () => {
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>BENJAMINS ET MINIMES (2010 A 2013)</b></p>
-                        <p className='prix-cotisation'><b>288€€</b></p>
+                        <p className='prix-cotisation'><b>288€</b></p>
                     </div>
                     <div className='case-cotisation'>
                         <p><b>CADETS, JUNIORS ET ADULTES (JUDO 2007 ET AVANT)</b></p>

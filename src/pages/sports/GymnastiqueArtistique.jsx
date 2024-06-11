@@ -137,7 +137,7 @@ const GymnastiqueArtistique = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>BABY GYM</b></p>
@@ -149,7 +149,7 @@ const GymnastiqueArtistique = () => {
                     </div>
                     <div className='case-cotisation'>
                         <p><b>MINI GYM</b></p>
-                        <p className='prix-cotisation'><b>1H00 - 255€<br/>1H30 - 265€</b></p>
+                        <p className='prix-cotisation-gym'><b>1H00 - 255€<br/>1H30 - 265€</b></p>
                     </div>
                 </div>
                 <div className='ligne-cotisations'>
@@ -159,21 +159,21 @@ const GymnastiqueArtistique = () => {
                     </div>
                     <div className='case-cotisation'>
                         <p><b>GYM AUX AGREES</b></p>
-                        <p className='prix-cotisation'><b>1H30 - 265€<br/>2H00 - 320€<br/>4H00 - 420€<br/>6H00 - 485€</b></p>
+                        <p className='prix-cotisation-gym'><b>1H30 - 265€<br/>2H00 - 320€<br/>4H00 - 420€<br/>6H00 - 485€</b></p>
                     </div>
                     <div className='case-cotisation'>
                         <p><b>ATELIER MOTRICITE</b></p>
                         <p><i>60€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
-                        <p className='prix-cotisation'><b>15€</b></p>
+                        <p className='prix-cotisation-gym'><b>15€</b></p>
                         <p><i>La séance</i></p>
                     </div>
-                    <div className='case-cotisation'>
+                </div>
+                <div className='case-cotisation'>
                         <p><b>YOGA PRE ET POST NATAL</b></p>
                         <p><i>50€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
                         <p className='prix-cotisation'><b>12€</b></p>
                         <p><i>La séance</i></p>
                     </div>
-                </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>

@@ -47,32 +47,32 @@ const Handball = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>M11 MIXTE 2013/2014</h4>
-                    <p><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><i>Equipe 1 : (parc)</i><br/><b>MARDI 17H00-18H15<br/>JEUDI 17H00-18H15</b><br/><br/><i>Equipe 2 :</i><br/><b>LUNDI 17H00-18H15</b><br/><i>(panorama)</i><br/><b>VENDREDI 17H00-18H15</b><br/><i>(parc)</i></p>
+                    <p><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p>Equipe 1 : <i>(parc)</i><br/><b>MARDI 17H00-18H15<br/>JEUDI 17H00-18H15</b><br/><br/>Equipe 2 :<br/><b>LUNDI 17H00-18H15</b><br/><i>(panorama)</i><br/><b>VENDREDI 17H00-18H15</b><br/><i>(parc)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>M13 MASCULIN 2011/2012</h4>
-                    <p><b>HALLE</b>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
-                    <p><i>Equipe 1 : </i><br/><b>LUNDI 18H15-19H30<br/>MERCREDI 18H15-19H30</b><br/><i>(panorama)</i><br/><b>VENDREDI 18H15-19H30</b><br/><i>(parc)</i><br/><br/><i>Equipe 2 : (panorama)</i><br/><b>LUNDI 18H15-19H30</b><br/><b>MERCREDI 18H15-19H30</b><br/></p>
+                    <p><b>HALLE</b><br /><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p>Equipe 1 :<br/><b>LUNDI 18H15-19H30<br/>MERCREDI 18H15-19H30</b><br/><i> (panorama)</i><br/><b>VENDREDI 18H15-19H30</b><br/><i> (parc)</i><br/><br/>Equipe 2 : <i>(panorama)</i><br/><b>LUNDI 18H15-19H30</b><br/><b>MERCREDI 18H15-19H30</b><br/></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>M1 MASCULIN 2009/2010</h4>
-                    <p><b>HALLE</b>Gymnase René Rousseau (Malakoff) 10bis Av. Augustin Dumont, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><i>Equipe 1 : </i><br/><b>MARDI 19H30-21H00<br/><i>(René Rousseau)</i><br/>JEUDI 18H15-19H30</b><br/><b>VENDREDI 19H30-21H00</b><br/><i>(parc)</i><br/><br/><i>Equipe 2 : (panorama)</i><br/><b>MARDI 19H30-21H00</b><br/><i>(René Rousseau)</i><br/><b>JEUDI 18H15-19H30</b><br/><i>(parc)</i><br/><br/><i>Equipe 3 : (panorama)</i><br/><b>LUNDI 19H30-21H00<br/>MERCREDI 17H00-18H15</b></p>
-                </div>
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>M18 MASCULIN 2006/2007/2008</h4>
-                    <p><b>HALLE</b>Gymnase René Rousseau (Malakoff) 10bis Av. Augustin Dumont, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><i>Equipe 1 :</i><br/><b>MARDI 19H30-21H00<br/>JEUDI 19H30-21H00</b><br/><br/><i>Equipe 2 :</i><br/><b>MERCREDI 19H30-21H00</b></p>
+                    <h4>M15 MASCULIN 2009/2010</h4>
+                    <p><b>HALLE</b><br /><br/>Gymnase René Rousseau (Malakoff) 10bis Av. Augustin Dumont, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br/>Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p>Equipe 1 : <br/><b>MARDI 19H30-21H00<br/><i>(René Rousseau)</i><br/>JEUDI 18H15-19H30</b><br/><b>VENDREDI 19H30-21H00</b><br/><i>(parc)</i><br/><br/>Equipe 2 : <i>(panorama)</i><br/><b>MARDI 19H30-21H00</b><br/><i>(René Rousseau)</i><br/><b>JEUDI 18H15-19H30</b><br/><i>(parc)</i><br/><br/>Equipe 3 : <i>(panorama)</i><br/><b>LUNDI 19H30-21H00<br/>MERCREDI 17H00-18H15</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>M18 MASCULIN 2006/2007/2008</h4>
-                    <p><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><i>Equipe 1 :</i><br/><b>LUNDI 21H00-22H3</b><br/><i>(panorama)</i><br/><b>MARDI 21H00-22H30<br/>JEUDI 21H00-22H30</b><br/><i>(parc)</i><br/><br/><i>Equipe 2 :</i><b>LUNDI 21H00-22H00<br/>MERCREDI 21H00-22H30</b><br/><i>(panorama)</i><br/><b>VENDREDI 21H00-22H30</b><br/><i>(parc)</i></p>
+                    <p><b>HALLE</b><br /><br/>Gymnase René Rousseau (Malakoff) 10bis Av. Augustin Dumont, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p>Equipe 1 :<br/><b>MARDI 19H30-21H00<br/>JEUDI 19H30-21H00</b><br/><br/>Equipe 2 :<br/><b>MERCREDI 19H30-21H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>M18 MASCULIN 2006/2007/2008</h4>
+                    <p><b>HALLE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br/><br/><b>HALLE</b><br /><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p>Equipe 1 :<br/><b>LUNDI 21H00-22H3</b><br/><i>(panorama)</i><br/><b>MARDI 21H00-22H30<br/>JEUDI 21H00-22H30</b><br/><i>(parc)</i><br/><br/>Equipe 2 :<br/><b>LUNDI 21H00-22H00<br/>MERCREDI 21H00-22H30</b><br/><i>(panorama)</i><br/><b>VENDREDI 21H00-22H30</b><br/><i>(parc)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
@@ -95,7 +95,7 @@ const Handball = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>PREMIERS PAS / MINI HAND (3 - 4 ANS)</b></p>

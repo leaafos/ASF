@@ -36,19 +36,19 @@ const TennisDeTable = () => {
                 <div className='entrainement-ligne'>
                     <h4>JEUNES (- 19 ANS)</h4>
                     <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 20H30-22H30<br/>MERCREDI 13H30-15H00</b><i>(Débutants)</i><br/><b>MERCREDI 15H00-16H30</b><i>(Confirmés et compétiteurs)</i><br/><b>VENDREDI 17H00-19H30</b><i>(Perfectionnement et compétiteurs)</i></p>
+                    <p><b>LUNDI 20H30-22H30<br/>MERCREDI 13H30-15H00</b><i> (Débutants)</i><br/><b>MERCREDI 15H00-16H30</b><i> (Confirmés et compétiteurs)</i><br/><b>VENDREDI 17H00-19H30</b><i> (Perfectionnement et compétiteurs)</i></p>
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
                     <h4>COMPETITEURS</h4>
                     <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 20H30-22H45<br/>VENDREDI 17H30-19H30</b><i>(Perfectionnement et compétiteurs)</i></p>
+                    <p><b>MERCREDI 20H30-22H45<br/>VENDREDI 17H30-19H30</b><i> (Perfectionnement et compétiteurs)</i></p>
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
                     <h4>LIBRE TOUT PUBLIC</h4>
                     <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 12H00-14H00<br/>MARDI 12H00-14H00<br/>MERCREDI 12H00-13H30<br/>JEUDI 12H00-14H00 ET 17H00-18H30<br/>VENDREDI 12H00-14H00<br/>SAMEDI 12H00-22H45</b><br/><i>(Hors compétition)</i><br/><b>DIMANCHE 08H00-19H45</b><br/><i>(Hors compétition)</i></p>
+                    <p><b>LUNDI 12H00-14H00<br/>MARDI 12H00-14H00<br/>MERCREDI 12H00-13H30<br/>JEUDI 12H00-14H00 ET 17H00-18H30<br/>VENDREDI 12H00-14H00<br/>SAMEDI 12H00-22H45</b><br/><i> (Hors compétition)</i><br/><b>DIMANCHE 08H00-19H45</b><br/><i> (Hors compétition)</i></p>
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>

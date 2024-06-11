@@ -29,7 +29,7 @@ const EcoleDesSports = () => {
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
                     <h4>5 A 12 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses <br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses </p>
+                    <p><b>HALLE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses <br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses </p>
                     <p><b>MERCREDI 08H30-12H00</b></p>
                 </div>
                 <hr className='ligne'></hr>

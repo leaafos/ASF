@@ -35,20 +35,20 @@ const TaeKwonDo = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>BABY NINJAS 3 - 5 ANS</h4>
-                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><br /><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br /><br/><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 15H00-16H00< br/>MERCREDI 16H30 - 17H30< br/>JEUDI 17H00 - 18H00</b></p>
                 </div>
                 {/*<hr className='ligne'></hr>*/}
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>BABY NINJAS 5-6 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><br /><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 17H30-18H30<br />SAMEDI 11H15-12H15</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>GRANDS NINJAS 6 - 10 ANS</h4>
-                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><br /><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><br /><b>SALLE DE DANSE</b><br /><br />Ecole du Parc, 6 Av. du Parc, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H30-19H30< br/>MERCREDI 17H30-18H30<br/><br/>MERCREDI 14H00-15H00< br/>SAMEDI 14H00-15H00<br/><br/>JEUDI 18H00 - 19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
@@ -72,7 +72,7 @@ const TaeKwonDo = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>BABY NINJA 3 A 6 ANS / GRANDS NINJAS 6 A 10 ANS</b></p>

@@ -29,13 +29,13 @@ const Karate = () => {
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
                     <h4>9 - 14 ANS</h4>
-                    <p><b>DOJO 1 </b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><br/><b>SALLE ARTS MARTIAUX</b><br/>Collège les Ormeaux 15 Rue d'Estienne d'ORves, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 1 </b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses<br/><br/><b>SALLE ARTS MARTIAUX</b><br /><br/>Collège les Ormeaux 15 Rue d'Estienne d'ORves, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H00-19H00 <br/><br/><br/><br/>JEUDI 18H00 - 19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>15 ANS ET + ADULTES</h4>
-                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses <br/><br/><b>SALLE ARTS MARTIAUX</b><br/>Collège les Ormeaux 15 Rue d'Estienne d'ORves, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses <br/><br/><b>SALLE ARTS MARTIAUX</b><br /><br/>Collège les Ormeaux 15 Rue d'Estienne d'ORves, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 19H00-20H30< br/><br/><br/><br/>JEUDI 19H00 - 20H30</b></p>
                 </div>
             </div>
@@ -47,7 +47,7 @@ const Karate = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>6 - 14 ANS</b></p>
@@ -58,7 +58,7 @@ const Karate = () => {
                         <p className='prix-cotisation'><b>250€</b></p>
                     </div>
                 </div>
-                <p><b>LICENSE COMPRISE - 37€</b></p>
+                <h4><b>LICENSE COMPRISE - 37€</b></h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>

@@ -48,8 +48,8 @@ const BasketBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U13 (2011-2012) 11-12 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses < br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MARDI 18H00-19H15</b><i>(Panorama)</i>< br/><b>MERCREDI 15H00-16H30</b><i>(Jean Fournier)</i></p>
+                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses <br/>< br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 18H00-19H15</b><i> (Panorama)</i>< br/><b>MERCREDI 15H00-16H30</b><i> (Jean Fournier)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
@@ -60,8 +60,8 @@ const BasketBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U15 (2009-2010) 13-14 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses < br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00</b><i>(Jean Fournier)</i>< br/><b>VENDREDI 17H30-19H00</b><i>(Panorama)</i></p>
+                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses <br/>< br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 16H30-18H00</b><i> (Jean Fournier)</i>< br/><b>VENDREDI 17H30-19H00</b><i> (Panorama)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
@@ -78,8 +78,8 @@ const BasketBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U17 EQUIPE 2 (2007-2008) 15-16 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses < br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MARDI 19H00-20H30</b><i>(Panorama)</i>< br/><b>MERCREDI 18H00-19H30</b><i>(Jean Fournier)</i></p>
+                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses <br/>< br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 19H00-20H30</b><i> (Panorama)</i>< br/><b>MERCREDI 18H00-19H30</b><i> (Jean Fournier)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
@@ -96,8 +96,8 @@ const BasketBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>SENIORS EQUIPE 1 (1978-2003) 20-45 ANS</h4>
-                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses< br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>JEUDI 20H30-20H30</b><i>(Panorama)</i>< br/><b>MARDI 20H30-22H30</b><i>(Jean Fournier)</i></p>
+                    <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/>< br/>Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>JEUDI 20H30-20H30</b><i> (Panorama)</i>< br/><b>MARDI 20H30-22H30</b><i> (Jean Fournier)</i></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>

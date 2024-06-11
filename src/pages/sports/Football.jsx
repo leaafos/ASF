@@ -48,44 +48,44 @@ const Football = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U10 (2014) MIXTE A 8</h4>
-                    <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses<br/> Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>VENDREDI 17H30-19H00</b><i>(parc)</i><br/>< br/>Séances Gardien : <br/><b>LUNDI 17H30 - 18H30 <br/>MERCREDI 15H00 - 16H30 </b><i>(panorama)</i><br/><br/>Matchs à domicile : <br/><b>SAMEDI 10H00</b></p>
+                    <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses<br/><br/>Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>VENDREDI 17H30-19H00</b><i> (parc)</i><br/>< br/>Séances Gardien : <br/><b>LUNDI 17H30 - 18H30 <br/>MERCREDI 15H00 - 16H30 </b><i> (panorama)</i><br/><br/>Matchs à domicile : <br/><b>SAMEDI 10H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U11C/U12C (2013-2012) MIXTE A 8</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 13H30-15H00</b><i>(panorama)</i><br /><b>VENDREDI 17H30-19H00</b><i>(panorama)</i><br/><br />Matchs à domicile :<br/><b>U11 SAMEDI 11H00<br/>U12 SAMEDI 12H00</b><br/><br/>Séances Gardien : (parc)<br/><b>LUNDI 17H30 18H30</b></p>
+                    <p><b>MERCREDI 13H30-15H00</b><i> (panorama)</i><br /><b>VENDREDI 17H30-19H00</b><i> (panorama)</i><br/><br />Matchs à domicile :<br/><b>U11 SAMEDI 11H00<br/>U12 SAMEDI 12H00</b><br/><br/>Séances Gardien : <i>(parc)</i><br/><b>LUNDI 17H30 18H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U13A (2011) MIXTE A 8</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 17H30-19H00</b><i>(parc)</i><br/><br />Séances Gardien :<br/><b>LUNDI 17H30-18H30</b><br /><br/><b>LUNDI 17H30 - 19H00</b><i>(panorama)</i><br/><br/>Matchs à domicile :<br/><b>SAMEDI 13H30</b></p>
+                    <p><b>MERCREDI 17H30-19H00</b><i> (parc)</i><br/><br />Séances Gardien :<br/><b>LUNDI 17H30-18H30</b><br /><br/><b>LUNDI 17H30 - 19H00</b><i> (panorama)</i><br/><br/>Matchs à domicile :<br/><b>SAMEDI 13H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>FEMININE U13/U18 (2011-2006)</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p><b>MARDI 18H30-20H00</b><i>(parc)</i><br /><b>VENDREDI 19H00-20H15</b><br /><br/>Séances Gardien : <br/><b>LUNDI 18H30-19H30</b><br/><br/>Matchs à domicile : (panormama)<br/><b>SAMEDI 13H30</b></p>
+                    <p><b>MARDI 18H30-20H00</b><i> (parc)</i><br /><b>VENDREDI 19H00-20H15</b><br /><br/>Séances Gardien : <br/><b>LUNDI 18H30-19H30</b><br/><br/>Matchs à domicile : <i>(panorama)</i><br/><b>SAMEDI 13H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U14 (2010) MIXTE A 8</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p>Séances Gardien : (parc)<b>LUNDI 18H30-19H30<br /><br/>MARDI 18H30-20H00</b><i>(panorama)</i><br /><b>JEUDI 18H30 - 20H00</b><br/><br/>Matchs à domicile :<br/><b>SAMEDI 15H00</b></p>
+                    <p>Séances Gardien : <i>(parc)</i><br/><b>LUNDI 18H30-19H30<br /><br/>MARDI 18H30-20H00</b><i> (panorama)</i><br /><b>JEUDI 18H30 - 20H00</b><br/><br/>Matchs à domicile :<br/><b>SAMEDI 15H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U16 (2009-2008) MASC. A 11</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p>Séances Gardien : (parc)<br/><b>LUNDI 18H30-19H30<br /><br/>MERCREDI 18H30-20H00 </b><i>(panorama)</i><br /><b>VENDREDI 19H00 - 20H30</b><br/><br/>Matchs à domicile :<br/><b>DIMANCHE 13H00</b></p>
+                    <p>Séances Gardien :<i>(parc)</i> <br/><b>LUNDI 18H30-19H30<br /><br/>MERCREDI 18H30-20H00 </b><i> (panorama)</i><br /><b>VENDREDI 19H00 - 20H30</b><br/><br/>Matchs à domicile :<br/><b>DIMANCHE 13H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>SENIORS (2005-1987) MASC. A 11</h4>
                     <p><b>TERRAIN SYNTHETIQUE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses<br/><br/>Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
-                    <p>Séances Gardien : (parc)<br/><b>LUNDI 18H30-19H30<br/><br />MARDI 20H00-22H00<br />JEUDI 20H00-22H00<br /></b>Matchs à domicile :<br/>Séniors 1 <b>LUNDI 17H30-18H30</b><br/>Séniors 1 <b>LUNDI 17H30-18H30</b></p>
+                    <p>Séances Gardien : <i>(parc)</i><br/><b>LUNDI 18H30-19H30<br/><br />MARDI 20H00-22H00<br />JEUDI 20H00-22H00<br /></b>Matchs à domicile :<br/>Séniors 1 <b>LUNDI 17H30-18H30</b><br/>Séniors 1 <b>LUNDI 17H30-18H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>

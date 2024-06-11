@@ -48,7 +48,7 @@ const VolleyBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>M18 FILLES (1) (2006 A 2008)</h4>
-                    <p><b>HALLE</b><br /><br />Gymnase du Parc, 7 Avenue du Parc, 92260 Fontenay-aux-Roses<b>HALLE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>HALLE</b><br /><br />Gymnase du Parc, 7 Avenue du Parc, 92260 Fontenay-aux-Roses<br /><br /><b>HALLE</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 18H30-20H30< br/>VENDREDI 18H45-20H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
@@ -78,7 +78,7 @@ const VolleyBall = () => {
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>NATIONALE 3, REGIONAL LOISIRS CONPETITION</h4>
-                    <p><b>CONTACTER LE 06 28 54 45</b></p>
+                    <p><b>CONTACTER LE 06 28 25 54 45</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -89,7 +89,7 @@ const VolleyBall = () => {
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
-            <div className='cotisations'>
+            <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
                         <p><b>ECOLE DE VOLLEY (2013 ET +)</b></p>

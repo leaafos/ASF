@@ -18,9 +18,9 @@ const MarcheNordique = () => {
             <div className='methodes'>
                 <h4>COURS ENSEIGNES</h4>
                 <p>La marche nordique est une autre conception de la marche, beaucoup plus active. <br/><br/>Le principe est simple : il s'agit d'accentuer le mouvement naturel des bras pendant la marche et de propulser le corps vers l'avant à l'aide de deux bâtons qui permettent d'aller plus vite et plus loin. L'ensemble du corps entre en action et la dépense d'énergie est accrue. En raison d'une technicité simple et d'un apprentissage peu fastidieux, la plaisir dela pratique est présent dès le début. <br/><br/>Par sa facilité et par sa dimension "Sport - Santé", la marche nordique s'adresse à tout le monde quels que soient l'âge ou la condition physique. Des adolescents aux retraités en passant par les sportifs confirmés, ce qui fait d'elle une discipline très conviviale et familiale. <br/><br/></p>
-                <h4>LES BIENFAITS DE LA MARCHE NORDIQUE</h4>
-                <p>La marche nordique tonifie le corps, permet de mieux respirer, fortifie les os, aide à l’amincissement... <br/>En entente avec 5 clubs d'athlétisme : Clamart, Fontenay-Aux-Roses, Nanterre, Plessis-Robinson et Suresnes (Athlé 92).</p>
             </div>
+            <h4>LES BIENFAITS DE LA MARCHE NORDIQUE</h4>
+                <p>La marche nordique tonifie le corps, permet de mieux respirer, fortifie les os, aide à l’amincissement... <br/>En entente avec 5 clubs d'athlétisme : Clamart, Fontenay-Aux-Roses, Nanterre, Plessis-Robinson et Suresnes (Athlé 92).</p>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
                     <h2>ENTRAÎNEMENTS</h2>

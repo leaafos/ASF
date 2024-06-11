@@ -42,13 +42,13 @@ const Menu = () => {
                 Contact
              </NavLink>
         </li>
-        <li>
-            <button className='bouton-header' >
-                <NavLink to="/benevoles">
-                    Devenir Bénévole
-                </NavLink>
-            </button>
-        </li>
+        
+        <button className='bouton-devenir-benevole' >
+            <NavLink to="/benevole">
+                Devenir Bénévole
+            </NavLink>
+          </button>
+        
       </ul>
       <div className="burger"  onClick={ handleBurgerClick}>
         <div className="ligne1"></div>

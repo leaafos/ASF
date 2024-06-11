@@ -20,7 +20,6 @@ import IconeKungFu from "../images/Accueil/iconesSports/kungFu.png";
 import IconeMarcheNordique from "../images/Accueil/iconesSports/marcheNordique.png";
 import IconeNatation from "../images/Accueil/iconesSports/natation.png";
 import IconeParkour from "../images/Accueil/iconesSports/parkour.png";
-import IconePetanque from "../images/Accueil/iconesSports/petanque.png";
 import IconeRugby from "../images/Accueil/iconesSports/rugby.png";
 import IconeSquash from "../images/Accueil/iconesSports/squash.png";
 import IconeTaeKwonDo from "../images/Accueil/iconesSports/TaeKwonDo.png";
@@ -28,6 +27,7 @@ import IconeTennis from "../images/Accueil/iconesSports/tennis.png";
 import IconeTennisDeTable from "../images/Accueil/iconesSports/tennisDeTable.png";
 import IconeVolleyball from "../images/Accueil/iconesSports/volleyball.png";
 import IconeYoga from "../images/Accueil/iconesSports/yoga.png";
+import IconeEscrime from "../images/Accueil/iconesSports/escrime.png";
 
 const sports = [
     { name : "Aikido", icon: IconeAikido, path: "/aikido"},
@@ -38,6 +38,7 @@ const sports = [
     { name : "Capoeira", icon: IconeCapoeira, path: "/capoeira"},
     { name : "Danse", icon: IconeDanse, path: "/ecolededanse"},
     { name : "Ecole Des Sports", icon: IconeSports, path: "/ecoledessports"},
+    { name : "Escrime", icon: IconeEscrime, path: "/escrime"},
     { name : "Fitness Gym Bien-être", icon: IconeFitness, path: "/fitness"},
     { name : "Football", icon: IconeFoot, path: "/football"},
     { name : "Gymnastique Artistique", icon: IconeGymnastiqueArtistique, path: "/gymnastiqueartistique"},
@@ -49,7 +50,6 @@ const sports = [
     { name : "Marche Nordique", icon: IconeMarcheNordique, path: "/marchenordique"},
     { name : "Natation", icon: IconeNatation, path: "/natation"},
     { name : "Parkour", icon: IconeParkour, path: "/parkour"},
-    { name : "Pétanque", icon: IconePetanque, path: "/petanque"},
     { name : "Rugby", icon: IconeRugby, path: "/rugby"},
     { name : "Squash", icon: IconeSquash, path: "/squash"},
     { name : "Tae Kwon Do", icon: IconeTaeKwonDo, path: "/taekwondo"},

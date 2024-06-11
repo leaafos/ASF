@@ -76,7 +76,7 @@ const Accueil = () => {
           <img src={Video1}></img>
           <img src={Video2}></img>
         </div>
-        <div className='bouton'>
+        <div>
            <button className='bouton-accueil'>
               <h4>VOIR LES ALBUMS</h4>
           </button>

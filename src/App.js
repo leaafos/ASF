@@ -26,7 +26,6 @@ import KungFu from './pages/sports/KungFu.jsx';
 import MarcheNordique from './pages/sports/MarcheNordique.jsx';
 import Natation from './pages/sports/Natation.jsx';
 import Parkour from './pages/sports/Parkour.jsx';
-import Petanque from './pages/sports/Petanque.jsx';
 import Rugby from './pages/sports/Rugby.jsx';
 import Squash from './pages/sports/Squash.jsx';
 import TaeKwonDo from './pages/sports/TaeKwonDo.jsx';
@@ -70,7 +69,6 @@ function App() {
                   <Route path="/marchenordique" element={<MarcheNordique/>}/>
                   <Route path="/natation" element={<Natation/>}/>
                   <Route path="/parkour" element={<Parkour/>}/>
-                  <Route path="/petanque" element={<Petanque/>}/>
                   <Route path="/rugby" element={<Rugby/>}/>
                   <Route path="/squash" element={<Squash/>}/>
                   <Route path="/taekwondo" element={<TaeKwonDo/>}/>
