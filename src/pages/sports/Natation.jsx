@@ -6,7 +6,7 @@ const Natation = () => {
     <div>
         <div className='header athletisme'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>NATATION</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -28,28 +28,57 @@ const Natation = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
+                    <h4>BEBES NAGEURS 3 A 6 MOIS</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 09H00-09H30<br/>SAMEDI 9H30-10H00<br/>SAMEDI 10H00-10H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
-                </div>
-                {/*<hr className='ligne'></hr>*/}
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
+                    <h4>PETITS BAIGNEURS</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 09H00-09H45<br/>SAMEDI 9H45-10H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>JEUNES 9 A 18 ANS</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 18H15-19H15<br/>MARDI 19H00-20H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>JEUNES 6 A 9 ANS</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>JEUDI 17H00-18H00<br/>JEUDI 18H00-190H00<br/>VENDREDI 17H00-18H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>HANDISPORT JEUNES</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 17H00-18H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>HANDISPORT ADULTES</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 19H15-20H15<br/>MARDI 20H00-21H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>AQUAGYM</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 19H15-20H00<br/>MERCREDI 20H00-20H45<br/>MERCREDI 20H45-21H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>AQUA BIKE</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 09H00-09H30<br/>MERCREDI 09H30-10H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>LES AÎNES</h4>
+                    <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 11H30-12H30<br/>LUNDI 12H30-13H30<br/>LUNDI 16H00-17H00</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,41 +92,93 @@ const Natation = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>BEBES NAGEURS FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>260€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
+                        <p><b>BEBES NAGEURS HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>280€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>PETITS BAIGNEURS FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>150€</b></p>
                     </div>
                 </div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
+                        <p><b>PETITS BAIGNEURS HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>170€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
+                        <p><b>JEUNES 6 A 18 ANS FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>150€</b></p>
+                        <p>(1H PAR SEMAINE)</p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>JEUNES 6 A 18 ANS HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>160€</b></p>
+                        <p>(1H PAR SEMAINE)</p>
+                    </div>
+                </div>
+                <div className='ligne-cotisations'>
+                    <div className='case-cotisation'>
+                        <p><b>HANDISPORT JEUNES</b></p>
+                        <p className='prix-cotisation'><b>125€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>HANDISPORT ADULTES</b></p>
+                        <p className='prix-cotisation'><b>155€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>ADULTES FONTENAISIENS </b></p>
+                        <p className='prix-cotisation'><b>170€</b></p>
+                        <p>(1H PAR SEMAINE)</p>
+                        <p className='prix-cotisation'><b>240€</b></p>
+                        <p>(2H PAR SEMAINE)</p>
+                    </div>
+                </div>
+                <div className='ligne-cotisations'>
+                    <div className='case-cotisation'>
+                        <p><b>ADULTES HORS COMMUNE</b></p>
                         <p className='prix-cotisation'><b>205€</b></p>
+                        <p>(1H PAR SEMAINE)</p>
+                        <p className='prix-cotisation'><b>270€</b></p>
+                        <p>(2H PAR SEMAINE)</p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>AQUAGYM FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>190€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>AQUAGYM HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>210€</b></p>
+                    </div>
+                </div>
+                <div className='ligne-cotisations'>
+                    <div className='case-cotisation'>
+                        <p><b>AQUA BIKE FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>420€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>AQUA BIKE HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>480€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>LES AÎNES FONTENAISIENS</b></p>
+                        <p className='prix-cotisation'><b>162€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>LES AÎNES HORS COMMUNE</b></p>
+                        <p className='prix-cotisation'><b>183€</b></p>
                     </div>
                 </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>PRESIDENT BRUNO GUIDAL : </h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> asf-natation@hotmail.fr</span>
             </div>
         </div>
     </div>

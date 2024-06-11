@@ -6,7 +6,7 @@ const Rugby = () => {
     <div>
         <div className='header athletisme'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>RUGBY</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -28,28 +28,45 @@ const Rugby = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
+                    <h4>BABY RUGBY A PARTIR DE 3 ANS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MERCREDI 14H00-15H00<br/>MERCREDI 15H00 - 16H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
-                </div>
-                {/*<hr className='ligne'></hr>*/}
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
+                    <h4>U6 (2018)</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MERCREDI 14H00-16H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>U8 (2016 - 2017)<br/>U10 (2014 - 2015)<br/>U12 (2012 - 2013)</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MERCREDI 14H00-16H00<br/>SAMEDI 10H00 - 11H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>RUGBY ADAPTE 9 - 12 ANS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MERCREDI 09H30-10H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>RUGBY ADAPTE SENIORS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>JEUDI 20H00-22H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>RUGBY A 5 MIXTE</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MARDI 20H00-22H00<br/>SAMEDI 10H00 - 11H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>FOLKLOS (+ 35 ANS)</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>MERCREDI 20H00-22H00<br/>DIMANCHE 10H00 - 12H00</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,41 +80,57 @@ const Rugby = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>BABY / U6</b></p>
+                        <p className='prix-cotisation'><b>100€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
+                        <p><b>U8 / U10 / U12 / U14</b></p>
+                        <p className='prix-cotisation'><b>210€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>SENIORS</b></p>
+                        <p className='prix-cotisation'><b>250€</b></p>
                     </div>
                 </div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
+                        <p><b>FOLKLOS</b></p>
+                        <p className='prix-cotisation'><b>220€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>RUGBY A 5 MIXTE</b></p>
+                        <p className='prix-cotisation'><b>130€</b></p>
                     </div>
                 </div>
+                <h4>Remise lors de l'inscription en ligne sur MonClub avec les codes suivants : <br/>FRATERIE10 -10% à partir du 2ème enfant <br/>FRATERIE20 -20% à partir du 3ème enfant</h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>ECOLE DE RUGBY : TONY VALIER-BRASIER</h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
-                <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> edr.fontenay@gmail.com</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>06 54 95 79 89</span>
+            </div>
+            <div className='contacts'>
+                <h4>RUGBY ADAPTE : KARINE GRENIER</h4>
+                <span className='label'>Mail : </span>
+                <span className='email'> grenierkarine@yahoo.fr</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>06 99 51 15 32</span>
+            </div>
+            <div className='contacts'>
+                <h4>RUGBY A 5 MIXTE : PIERRE CHOUTEAU</h4>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>06 84 96 96 62</span>
+            </div>
+            <div className='contacts'>
+                <h4>RUGBY SENIORS : STEPAHNIE LECUYER</h4>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>06 84 10 44 49</span>
+                <span className='label'>Réseaux sociaux : </span>
+                <span className='email'>www.facebook.com/rygbyasf/</span>
             </div>
         </div>
     </div>

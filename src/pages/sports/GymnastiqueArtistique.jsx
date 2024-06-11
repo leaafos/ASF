@@ -28,28 +28,105 @@ const GymnastiqueArtistique = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
-                    <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>SAMEDI 09H00-09H45</b></p>
+                    <h4>POUSSINES BENJAMINES (AVANCE) 2013 - 2017</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 17H00-19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
-                </div>
-                {/*<hr className='ligne'></hr>*/}
-                <hr className='ligne'></hr>
-                <div className='entrainement-ligne'>
-                    <h4>2008 ET AVANT</h4>
-                    <p><b>PISTE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 18H30-20H00<br />MERCREDI 19H00-21H00<br />VENDREDI 20H00-21H00</b></p>
+                    <h4>MINIMES 2011 - 2012</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 19H00-20H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
-                    <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
+                    <h4>POUSSINES BENJAMINES 2013 - 2017</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 10H00-11H30<br/>MERCREDI 11H30 - 13H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>POUSSINES 2016 - 2017</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 16H30-18H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>POUSSINES 2015</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 18H00-19H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>BENJAMINES 2013 - 2014</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>JEUDI 17H00-18H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>MINIMES TOUTES CATEGORIES (COMPETITION) AVANT 2012</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 19H00-21H00 <br/>JEUDI 18H30 - 20H30<br/>VENDREDI 19H00 - 21H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>POUSSINES BENJAMINES (COMPETITION) 2013 - 2017</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 17H00-19H00 <br/>VENDREDI 17H00 - 19H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>BABYGYM 2021</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 09H45-10H15</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>EVEIL 1 2020</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 10H15-11H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>EVEIL 2 2019</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>DAMEDI 11H00-11H45</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>MINI GYM 2018</h4>
+                    <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 16H30-18H00<br/>SAMEDI 11H45 - 12H45</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ATELIER A MOTRICITE PARENT-BEBE 3 A 18 MOIS</h4>
+                    <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 09H30-11H30</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>YOGA PRENATAL (METHODE DE GASQUET)</h4>
+                    <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 14H30-15H00</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>YOGA POSTNATAL (METHODE GASQUET)</h4>
+                    <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 15H15-16H15</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>FITNESS</h4>
+                    <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 20H00-21H15</b></p>
+                </div>
+                <hr className='ligne'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>HANDI'GYM 6-16 ANS</h4>
+                    <p><b>DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 08H30-12H00</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -63,41 +140,58 @@ const GymnastiqueArtistique = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>BABY GYM</b></p>
+                        <p className='prix-cotisation'><b>240€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
+                        <p><b>EVEIL GYMNIQUE</b></p>
+                        <p className='prix-cotisation'><b>245€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
+                        <p><b>MINI GYM</b></p>
+                        <p className='prix-cotisation'><b>1H00 - 255€<br/>1H30 - 265€</b></p>
                     </div>
                 </div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
+                        <p><b>FITNESS 1H30</b></p>
+                        <p className='prix-cotisation'><b>210€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
+                        <p><b>GYM AUX AGREES</b></p>
+                        <p className='prix-cotisation'><b>1H30 - 265€<br/>2H00 - 320€<br/>4H00 - 420€<br/>6H00 - 485€</b></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>ATELIER MOTRICITE</b></p>
+                        <p><i>60€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
+                        <p className='prix-cotisation'><b>15€</b></p>
+                        <p><i>La séance</i></p>
+                    </div>
+                    <div className='case-cotisation'>
+                        <p><b>YOGA PRE ET POST NATAL</b></p>
+                        <p><i>50€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
+                        <p className='prix-cotisation'><b>12€</b></p>
+                        <p><i>La séance</i></p>
                     </div>
                 </div>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>GYM ARTISTIQUE ANNE-SOPHIE BAULON - PRESIDENTE : </h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
+                <span className='email'> asfgym92@gmail.com</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>06 88 70 39 33</span>
+            </div>
+            <div className='contacts'>
+                <h4>ATELIER MOTRICITE / YOGA PRE ET POSTNATAL NATACHA ROUAIX - PROFESSEUR : </h4>
+                <span className='label'>Mail : </span>
+                <span className='email'> natacha.rouaix@hotmail.fr</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'>07 87 87 33 57</span>
                 <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'>www.asfgym92.fr</span>
             </div>
         </div>
     </div>

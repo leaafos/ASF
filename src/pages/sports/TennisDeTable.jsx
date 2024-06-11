@@ -36,9 +36,50 @@ const TennisDeTable = () => {
                 <div className='entrainement-ligne'>
                     <h4>JEUNES (- 19 ANS)</h4>
                     <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
-                    <p><b>LUNDI 20H30-22H30</b></p>
+                    <p><b>LUNDI 20H30-22H30<br/>MERCREDI 13H30-15H00</b><i>(Débutants)</i><br/><b>MERCREDI 15H00-16H30</b><i>(Confirmés et compétiteurs)</i><br/><b>VENDREDI 17H00-19H30</b><i>(Perfectionnement et compétiteurs)</i></p>
                 </div>
-                
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>COMPETITEURS</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MERCREDI 20H30-22H45<br/>VENDREDI 17H30-19H30</b><i>(Perfectionnement et compétiteurs)</i></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>LIBRE TOUT PUBLIC</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 12H00-14H00<br/>MARDI 12H00-14H00<br/>MERCREDI 12H00-13H30<br/>JEUDI 12H00-14H00 ET 17H00-18H30<br/>VENDREDI 12H00-14H00<br/>SAMEDI 12H00-22H45</b><br/><i>(Hors compétition)</i><br/><b>DIMANCHE 08H00-19H45</b><br/><i>(Hors compétition)</i></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ENTRAÎNEMENTS LIBRE & CORPO</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>LUNDI 17H00-20H30<br/>MERCREDI 16H30-20H30</b></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ENTRAINEMENTS LOBRE (HORS COMPETITION)</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 20H00-23H00<br/>JEUDI 20H00-22H45<br/>VENDREDI 19H30-22H45</b></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ENTRAÎNEMENTS CORPOS</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>SAMEDI 08H00-12H00</b></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>ACTIVITE HANDISPORT</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>MARDI 14H00-15H30</b><br/><i>(Réservé exclusivement à l'hôpital de jour)</i></p>
+                </div>
+                <hr className='ligne-titre'></hr>
+                <div className='entrainement-ligne'>
+                    <h4>COMPETITIONS CORPORATIVES</h4>
+                    <p><b>SALLE TENNIS DE TABLE, 1ER ETAGE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
+                    <p><b>JEUDI 18H30-22H20</b></p>
+                </div>
             </div>
             <h2>INSCRIPTIONS</h2>
             <hr className='ligne-titre'></hr>
@@ -49,43 +90,18 @@ const TennisDeTable = () => {
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='cotisations'>
-                <div className='ligne-cotisations'>
-                    <div className='case-cotisation'>
-                        <p><b>2018 ET 2019</b></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>225€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2013 ET 2017</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>190€</b></p>
-                    </div>
-                </div>
-                <div className='ligne-cotisations'>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Nouvelle adhésion (prix du maillot compris)</i></p>
-                        <p className='prix-cotisation'><b>240€</b></p>
-                    </div>
-                    <div className='case-cotisation'>
-                        <p><b>2012 ET AVANT</b></p>
-                        <p><i>Ancien adhérent</i></p>
-                        <p className='prix-cotisation'><b>205€</b></p>
-                    </div>
-                </div>
+                <h4>TOUTES LES INFORMATIONS SONT DISPONIBLES SUR LE SITE DE l'ASF TENNIS hhtps://www.asftennis.com</h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>REPSONSABLE ADMINISTRATIVE : </h4>
                 <span className='label'>Mail : </span>
-                <span className='email'> asfathletisme2@gmail.com</span>
+                <span className='email'> contact@asftennis.com</span>
+                <span className='label'>Téléphone : </span>
+                <span className='email'> 01 46 60 86 21</span>
                 <span className='label'>Site Web : </span>
-                <span className='email'> www.asfathletisme.free.fr</span>
+                <span className='email'> www.asftennis.com</span>
             </div>
         </div>
     </div>
