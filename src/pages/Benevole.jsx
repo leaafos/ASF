@@ -75,11 +75,10 @@ const Benevole = () => {
         <div className='formulaire-contact-benevole'>
           <ContactFormBenevole></ContactFormBenevole>
         </div>
-          <div className='connexion-benevole'>
+          {/*<div className='connexion-benevole'>
             <button className='bouton-formulaire'>Se connecter</button>
-          </div>
+          </div>*/}
       </div>
-
     </div>
   );
 };

@@ -1,4 +1,5 @@
-import React from 'react';
+import React from 'react'
+import { Link } from 'react-router-dom';
 import "../styles/accueil.css";
 import ListeIcones from '../components/ListeIcones';
 import BarreDeRecherche from '../components/BarreDeRecherche';
@@ -53,8 +54,10 @@ const Accueil = () => {
       </div>
       <div className='bouton'>
         <button className='bouton-accueil'>
-          <h4>VOIR TOUS LES EVENEMENTS</h4>
-      </button>
+          <Link to="/construction">
+              <h4>VOIR TOUS LES EVENEMENTS</h4>
+          </Link>     
+        </button>
       </div>
       <div className='chiffres-cles'>
           <div className='chiffre1'>
@@ -78,7 +81,9 @@ const Accueil = () => {
         </div>
         <div className='bouton-espace-bouton'>
            <button className='bouton-accueil'>
+            <Link to="/construction">
               <h4>VOIR LES ALBUMS</h4>
+            </Link>
           </button>
         </div>
       </div>

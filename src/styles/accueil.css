@@ -135,6 +135,11 @@
 
 }
 
+.bouton-accueil a, .btn {
+    color:#0913B1;
+    text-decoration: none;
+}
+
 .bouton {
     display: flex;
     justify-content: center;

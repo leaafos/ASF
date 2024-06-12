@@ -8,11 +8,11 @@ h3 {
 }
 
 .header-historique {
-    width: 100%;
+    min-width: 100%;
 }
 
 .header-historique img {
-    max-width: 100%;
+    width: 100%;
 }
 
 .histoire {

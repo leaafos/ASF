@@ -34,6 +34,7 @@ import TennisDeTable from './pages/sports/TennisDeTable.jsx';
 import VolleyBall from './pages/sports/VolleyBall.jsx';
 import Yoga from './pages/sports/Yoga.jsx';
 import Menu from './components/Menu.jsx';
+import Construction from './pages/Construction.jsx';
 
 
 function App() {
@@ -42,13 +43,12 @@ function App() {
          <Router>
             <div>
               <Menu></Menu>
-              
-
               <Routes>
                   <Route path="/" element={<Accueil/>}/>
                   <Route path="/contact" element={<Contact/>}/>
                   <Route path="/historique" element={<Historique/>}/>
                   <Route path="/benevole" element={<Benevole/>}/>
+                  <Route path="/construction" element={<Construction/>}/>
                   <Route path="/aikido" element={<Aikido/>}/>
                   <Route path="/athletisme" element={<Athletisme/>}/>
                   <Route path="/badminton" element={<Badminton/>}/>

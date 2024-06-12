@@ -19,8 +19,6 @@ const Menu = () => {
         document.body.style.touchAction = 'none';
       };
 
-
-
   return (
     <nav className="menu" onClick={openMenu}>
       <div className="logo">
@@ -44,13 +42,11 @@ const Menu = () => {
                 Contact
              </NavLink>
         </li>
-        
         <button className='bouton-devenir-benevole' >
             <NavLink to="/benevole">
                 Devenir Bénévole
             </NavLink>
-          </button>
-        
+        </button>
       </ul>
       <div className="burger"  onClick={ handleBurgerClick}>
         <div className="ligne1"></div>
