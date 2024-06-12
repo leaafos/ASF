@@ -90,32 +90,28 @@
     font-size: 18px;
     padding-left: 8%;
 }
-/*
-.zigzag img{
-    width: 100%;
-    position: absolute;
-    z-index: 1;
-}*/
+
 
 .formulaire-bandeau{
     position: relative;
-    margin-top: 2%;
     width: 100%;
+    min-height: 600px;
     background-image: url("../images/Contact/bandeau-contact-formulaire.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
 .formulaire {
+    padding-top: 10%;
+    padding-left: 5%;
     width: 40%;
 }
 
-
-
-@media (max-width: 1000px) {
+@media (max-width: 1028px) {
     .formulaire-bandeau {
         display: flex;
         justify-content: center;
+        min-height: 500px;
     }
     
     .formulaire {

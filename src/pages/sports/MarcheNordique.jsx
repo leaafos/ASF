@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const MarcheNordique = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header marcheNordique'>
             <div className='nom-sport'>
                 <h1>MARCHE NORDIQUE</h1>
             </div>

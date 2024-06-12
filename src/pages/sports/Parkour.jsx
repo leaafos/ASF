@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const Parkour = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header parkour'>
             <div className='nom-sport'>
                 <h1>PARKOUR</h1>
             </div>

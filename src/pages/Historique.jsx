@@ -2,7 +2,6 @@ import React from 'react';
 import "../styles/historique.css";
 import Bandeau from "../images/Historique/bandeau-historique.png";
 import ImageHistoire from "../images/Historique/photo-historique.png";
-import ZigZag from "../images/zigzag.png";
 import BandeauSeparation from "../images/Historique/bandeau-separation-historique.png";
 import Barre from "../images/Historique/point-phrise.png";
 
@@ -22,8 +21,6 @@ const Historique = () => {
       </div>
       <div className='presidents'>
         <h3>LES PRÉSIDENT(E)S DE L'ASSOCIATION</h3>
-
-
         <div className='phrise'>
           <hr className='ligne-phrise'></hr>
           <div className='elements-phrise'>
@@ -59,7 +56,6 @@ const Historique = () => {
          {/**la frise chrono ici */}
       </div>
       <div className='separations'>
-        <img src={ZigZag} className='zigzag'></img>
         <img src={BandeauSeparation} className='bandeauSeparation'></img>
       </div>
       <div className='assemblee-generale'>

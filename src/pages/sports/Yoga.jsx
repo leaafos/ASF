@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const Yoga = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header yoga'>
             <div className='nom-sport'>
                 <h1>YOGA</h1>
             </div>
@@ -16,7 +16,7 @@ const Yoga = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES </h4>
+                <h4>COURS ENSEIGNÉS </h4>
                 <p>Hatha yoga dans la lignée de Madras (Professeur diplômée FNEY)<br/><br/>La séance (1h15) débute par une mise en route musculaire et respiratoire progressive, sur le chemin du lâcher-prise.<br/>Elle se poursuit par la pratique posturale qui mobilise les cinq sens de la colonne vertébrale de façon dynamique et statique, dans le respect de chaque pratiquant.<br/><br/>L'accent est mis sur l'attention permanente au souffle et au ressenti.<br/>Les bénéfices de cette séquence d'exercices sont pleinement intégrés lors de la détente.<br/>Puis le travail respiratoire est le prélude à l'assise, grâce au calme intérieur et à la verticalité que la séance a permis d'apprivoiser.</p>
             </div>
             <div className='entrainements'>
@@ -44,7 +44,7 @@ const Yoga = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>18 A 25 ANS</b></p>
+                        <p><b>18 À 25 ANS</b></p>
                         <p className='prix-cotisation'><b>235€</b></p>
                     </div>
                     <div className='case-cotisation'>
@@ -56,17 +56,17 @@ const Yoga = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENT JEAN FRANCOIS BRESSE</h4>
+                <h4>PRÉSIDENT JEAN FRANCOIS BRESSE</h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> jeff.bresse@orange.fr</span>
             </div>
             <div className='contacts'>
-                <h4>PROFESSEUR (DIPLÔMEE FNEY) MME VERNARDET : </h4>
+                <h4>PROFESSEUR (DIPLÔMÉE FNEY) MME VERNARDET : </h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> av_vernardet@sfr.fr</span>
             </div>
             <div className='contacts'>
-                <h4>POUR D'AUTRES RENSEIGNEMENTS OU FAIRE UNE SEANCE D'ESSAI, ENVOYEZ UN MAIL A L'ADRESSE :</h4>
+                <h4>POUR D'AUTRES RENSEIGNEMENTS OU FAIRE UNE SÉANCE D'ESSAI, ENVOYEZ UN MAIL À L'ADRESSE :</h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> fontyoga@gmail.com</span>
             </div>

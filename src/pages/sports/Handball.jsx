@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const Handball = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header handball'>
             <div className='nom-sport'>
                 <h1>HANDBALL</h1>
             </div>

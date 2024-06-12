@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const KungFu = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header kungFu'>
             <div className='nom-sport'>
                 <h1>KUNG FU</h1>
             </div>

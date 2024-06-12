@@ -62,14 +62,14 @@
 .evenements {
     width: 100%;
     margin-top: 64px;
-    min-height: 300px;
-    padding-bottom: 64px;
+    min-height: 600px;
     background-image: url("../images/Accueil/fond-bleu.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top 10%;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 32px;
 }
 
@@ -126,11 +126,13 @@
     color: #0913B1;
     background: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
-.bouton-event :hover {
-    background-color: #0913B1;
-    color: white;
+.bouton-accueil :hover {
+    font-size: medium;
+    transition: transform 0.5s ease-in;
+
 }
 
 .bouton {
@@ -181,6 +183,11 @@
 
 .photos-videos {
     margin: 32px;
+}
+
+.bouton-espace-bouton {
+    display: flex;
+    justify-content: center;
 }
 
 .container-images {

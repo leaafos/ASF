@@ -28,13 +28,20 @@ h3 {
 
 .presidents {
     margin: 64px;
+    margin-bottom: 124px;
 }
 
+.presidents hr {
+    margin-bottom: 5%;
+}
+
+
 .elements-phrise {
+    margin-top: -3%;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
     justify-items: center;
 }
 
@@ -121,6 +128,12 @@ h3 {
 }
 
 
+@media (max-width: 1524px) {
+    .elements-phrise {
+        margin-top: -5%;
+    }
+}
+
 @media (max-width: 1024px) {
     .histoire {
         margin: 32px;
@@ -129,8 +142,36 @@ h3 {
 
     .presidents {
         margin: 32px;
+        margin-bottom: 124px;
+    }
+    
+    .presidents hr {
+        display: none;
+    }
+    
+    
+    .elements-phrise {
+        margin-top: 32px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        justify-items: center;
     }
 
+    .point {
+        width: 100%;
+        margin: 16px;
+    }
+
+    .point img {
+        display: none;
+    }
+    
+    .assemblee-generale {
+        padding-top: 32px;
+        margin: 12px;
+    }
         
     .arbre-assemblee-generale {
         width: 100%;

@@ -94,8 +94,113 @@ h4 {
     background-position: center;
 }
 
+.gymnastiqueArtistique {
+    background-image: url("../images/Sports/banniere-gymnastiqueArtistique.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.gymnastiqueRythmique {
+    background-image: url("../images/Sports/banniere-gymnastiqueRythmique.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.handball {
+    background-image: url("../images/Sports/banniere-handball.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.judoJuJitsu {
+    background-image: url("../images/Sports/banniere-jujitsu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 .karate {
     background-image: url("../images/Sports/banniere-karate.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.kungFu {
+    background-image: url("../images/Sports/banniere-kungFu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.marcheNordique {
+    background-image: url("../images/Sports/banniere-marcheNordique.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.natation {
+    background-image: url("../images/Sports/banniere-natation.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.parkour {
+    background-image: url("../images/Sports/banniere-parkour.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.rygby {
+    background-image: url("../images/Sports/banniere-rugby.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.squash {
+    background-image: url("../images/Sports/banniere-squash.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.taekwondo {
+    background-image: url("../images/Sports/banniere-taekwondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.tennis {
+    background-image: url("../images/Sports/banniere-taekwondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.tennisDeTable {
+    background-image: url("../images/Sports/banniere-tennisDeTable.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.volleyball {
+    background-image: url("../images/Sports/banniere-volleyBall.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.yoga {
+    background-image: url("../images/Sports/banniere-yoga.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -4,7 +4,7 @@ import "../../styles/sports.css";
 const GymnastiqueRythmique = () => {
   return (
     <div>
-        <div className='header athletisme'>
+        <div className='header gymnastiqueRythmique'>
             <div className='nom-sport'>
                 <h1>GYMNASTIQUE RYTHMIQUE</h1>
             </div>

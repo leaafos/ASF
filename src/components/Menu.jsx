@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import '../styles/menu.css';
 import Logo from "../images/Logo.png";
 
@@ -24,13 +24,15 @@ const Menu = () => {
   return (
     <nav className="menu" onClick={openMenu}>
       <div className="logo">
-        <img src={Logo}></img>
+        <Link to="/">
+          <img src={Logo}></img>
+        </Link>
       </div>
-      <ul className={`nav-links ${isOpen ? 'open' : ''}`}>
+      <ul className={`nav-links ${isOpen ? 'open' : ''}`} end onClick={closeMenu}>
         <li>
             <NavLink to="/" className={({ isActive }) => (isActive ? 'active' : '')} end onClick={closeMenu}>
                 Actualités
-             </NavLink>
+            </NavLink>
         </li>
         <li>
             <NavLink to="/historique" className={({ isActive }) => (isActive ? 'active' : '')} end onClick={closeMenu}>
