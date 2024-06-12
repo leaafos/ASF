@@ -16,7 +16,7 @@ const GymnastiqueArtistique = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>La gymnastique artistique est une discipline athlétique consistant à enchaîner des mouvements acrobatiques sur des agrès. La compétition se déroule de deux manières : en concours par équipe et en concours individuel. Ce dernier se subdivise en concours général (l'intégralité des agrès) et en concours par appareil. Chez les femmes, il existe quatre agrès : le saut de cheval, les barres asymétriques, la poutre et le sol. <br/><br/>Atelier de motricité parent-bébé : s’adresse aux bébés âgés de 3 à 18 mois. L’objectif des ateliers est d’offrir un espace de motricité adapté pour soutenir le développement psychomoteur du tout-petit. <br/><br/>Dans les ateliers, la psychomotricienne est présente pour accompagner et encourager l’enfant dans ses découvertes, sans faire à sa place. L’enfant est alors acteur de son développement soutenu par le regard attentif et bienveillant des adultes. C’est également un espace de rencontre pour les parents et les enfants. La psychomotricienne pourra répondre à toutes les questions concernant le développement psychomoteur des enfants. <br/><br/>Yoga prénatal et postnatal (méthode De Gasquet) : Espace de bien-être et de rencontre entre les futures mamans et les jeunes mamans. Ils ont pour objectif de soulager les douleurs mécaniques et fonctionnels du corps (douleur au niveau du dos, des cervicales, du bassin ou encore les troubles digestifs), d’acquérir les postures et les respirations adaptées pour améliorer le bien-être de la future maman et de son bébé, récupérer forme et énergie après l’accouchement. Le yoga prénatal s’adresse aux femmes enceintes à partir du second trimestre.<br/><br/>Les jeunes mamans pourront participer aux cours de yoga postnatal 5 à 6 semaines après l’accouchement, les nouveau-nés seront les bienvenus pendant les ateliers. Nous mettrons à disposition des tapis et des matelas de change.</p>
             </div>
             <div className='entrainements'>
@@ -28,7 +28,7 @@ const GymnastiqueArtistique = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>POUSSINES BENJAMINES (AVANCE) 2013 - 2017</h4>
+                    <h4>POUSSINES BENJAMINES (AVANCÉ) 2013 - 2017</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MARDI 17H00-19H00</b></p>
                 </div>
@@ -64,13 +64,13 @@ const GymnastiqueArtistique = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>MINIMES TOUTES CATEGORIES (COMPETITION) AVANT 2012</h4>
+                    <h4>MINIMES TOUTES CATÉGORIES (COMPÉTITION) AVANT 2012</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 19H00-21H00 <br/>JEUDI 18H30 - 20H30<br/>VENDREDI 19H00 - 21H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>POUSSINES BENJAMINES (COMPETITION) 2013 - 2017</h4>
+                    <h4>POUSSINES BENJAMINES (COMPÉTITION) 2013 - 2017</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 17H00-19H00 <br/>VENDREDI 17H00 - 19H00</b></p>
                 </div>
@@ -82,15 +82,15 @@ const GymnastiqueArtistique = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>EVEIL 1 2020</h4>
+                    <h4>ÉVEIL 1 2020</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>SAMEDI 10H15-11H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>EVEIL 2 2019</h4>
+                    <h4>ÉVEIL 2 2019</h4>
                     <p><b>SALLE GYMNASTIQUE</b><br /><br />Gymnase Jean Fournier 7 Rue des Portiers, 92260 Fontenay-aux-Roses</p>
-                    <p><b>DAMEDI 11H00-11H45</b></p>
+                    <p><b>SAMEDI 11H00-11H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
@@ -100,19 +100,19 @@ const GymnastiqueArtistique = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>ATELIER A MOTRICITE PARENT-BEBE 3 A 18 MOIS</h4>
+                    <h4>ATELIER À MOTRICITÉ PARENT-BÉBÉ 3 À 18 MOIS</h4>
                     <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 09H30-11H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>YOGA PRENATAL (METHODE DE GASQUET)</h4>
+                    <h4>YOGA PRÉNATAL (MÉTHODE DE GASQUET)</h4>
                     <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 14H30-15H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>YOGA POSTNATAL (METHODE GASQUET)</h4>
+                    <h4>YOGA POSTNATAL (MÉTHODE GASQUET)</h4>
                     <p><b>SALLE GYM/BIEN ÊTRE</b><br /><br />Gymnase du Parc 7 Avenue du Parc, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 15H15-16H15</b></p>
                 </div>
@@ -144,7 +144,7 @@ const GymnastiqueArtistique = () => {
                         <p className='prix-cotisation'><b>240€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>EVEIL GYMNIQUE</b></p>
+                        <p><b>ÉVEIL GYMNIQUE</b></p>
                         <p className='prix-cotisation'><b>245€</b></p>
                     </div>
                     <div className='case-cotisation'>
@@ -158,18 +158,18 @@ const GymnastiqueArtistique = () => {
                         <p className='prix-cotisation'><b>210€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>GYM AUX AGREES</b></p>
+                        <p><b>GYM AUX AGRÉES</b></p>
                         <p className='prix-cotisation-gym'><b>1H30 - 265€<br/>2H00 - 320€<br/>4H00 - 420€<br/>6H00 - 485€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>ATELIER MOTRICITE</b></p>
+                        <p><b>ATELIER MOTRICITÉ</b></p>
                         <p><i>60€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
                         <p className='prix-cotisation-gym'><b>15€</b></p>
                         <p><i>La séance</i></p>
                     </div>
                 </div>
                 <div className='case-cotisation'>
-                        <p><b>YOGA PRE ET POST NATAL</b></p>
+                        <p><b>YOGA PRÉ ET POST NATAL</b></p>
                         <p><i>50€ les 5 séances (possibilité 1 séance à l'essai)</i></p>
                         <p className='prix-cotisation'><b>12€</b></p>
                         <p><i>La séance</i></p>
@@ -178,14 +178,14 @@ const GymnastiqueArtistique = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>GYM ARTISTIQUE ANNE-SOPHIE BAULON - PRESIDENTE : </h4>
+                <h4>GYM ARTISTIQUE ANNE-SOPHIE BAULON - PRÉSIDENTE : </h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> asfgym92@gmail.com</span>
                 <span className='label'>Téléphone : </span>
                 <span className='email'>06 88 70 39 33</span>
             </div>
             <div className='contacts'>
-                <h4>ATELIER MOTRICITE / YOGA PRE ET POSTNATAL NATACHA ROUAIX - PROFESSEUR : </h4>
+                <h4>ATELIER MOTRICITÉ / YOGA PRÉ ET POSTNATAL NATACHA ROUAIX - PROFESSEUR : </h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> natacha.rouaix@hotmail.fr</span>
                 <span className='label'>Téléphone : </span>

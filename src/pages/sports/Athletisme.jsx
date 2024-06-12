@@ -6,7 +6,7 @@ const Athletisme = () => {
     <div>
         <div className='header athletisme'>
             <div className='nom-sport'>
-                <h1>ATHLETISME</h1>
+                <h1>ATHLÉTISME</h1>
             </div>
             <div className='saison'>
                 <h2>SAISON 2024-2025</h2>
@@ -16,8 +16,8 @@ const Athletisme = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>L'athlétisme, souvent considéré comme la reine des sports, englobe une variété de disciplines physiques incluant la course à pied, le saut, et le lancer. Ce sport polyvalent permet à chacun de trouver une activité correspondant à ses capacités et préférences, qu'il s'agisse de courir sur des pistes, de sauter en hauteur ou en longueur, ou encore de lancer des objets tels que le javelot ou le disque. <br/><br/>Notre section d'athlétisme au sein de l'association sportive offre un environnement accueillant et dynamique pour tous les âges et niveaux. Nos entraîneurs qualifiés mettent un point d'honneur à développer à la fois les compétences techniques et la passion pour ce sport complet. Les entraînements sont structurés pour favoriser la progression individuelle tout en cultivant un esprit d'équipe fort et solidaire.<br/><br/>Que vous soyez débutant cherchant à découvrir une nouvelle activité, ou athlète confirmé visant à améliorer vos performances, notre section d'athlétisme vous propose des programmes adaptés et des opportunités de participation à des compétitions locales et régionales. Rejoignez-nous pour vivre des moments sportifs inoubliables et partager notre passion pour l’athlétisme !</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,13 +28,13 @@ const Athletisme = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2018 A 2019</h4>
+                    <h4>2018 À 2019</h4>
                     <p><b>SALLE TENNIS DE TABLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>SAMEDI 09H00-09H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2013 A 2017</h4>
+                    <h4>2013 À 2017</h4>
                     <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 16H30-18H00< br/> OU SAMEDI 10H15 - 12H00</b></p>
                 </div>
@@ -47,7 +47,7 @@ const Athletisme = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>2009 A 2012</h4>
+                    <h4>2009 À 2012</h4>
                     <p><b>PISTE ET TERRAIN D'HONNEUR</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 18H00-20H00< br/>VENDREDI 18H30-20H00</b></p>
                 </div>
@@ -93,7 +93,7 @@ const Athletisme = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>ASF ATHLÉTISME</h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> asfathletisme2@gmail.com</span>
                 <span className='label'>Site Web : </span>

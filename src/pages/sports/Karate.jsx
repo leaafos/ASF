@@ -16,8 +16,8 @@ const Karate = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
-                <p>« La voie   de la main vide »<br/><br/>Le Karaté   est un art martial Japonais qui consiste en l’utilisation de techniques à la   fois offensives et défensives faisant appel à toutes les parties du corps :   mains, pieds, etc.<br/><br/>Le Karaté   enfant est un véritable outil d’éveil et d’éducation. Les enchainements de   techniques lui permettent de développer réflexes, coordination et de se   repérer dans l’espace. La concentration, inhérente au Karaté, permet à   l’enfant de canaliser son énergie. Son évolution sportive et la socialisation   due à la pratique augmente sa confiance en lui.</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>« La voie de la main vide »<br/><br/>Le Karaté   est un art martial Japonais qui consiste en l’utilisation de techniques à la   fois offensives et défensives faisant appel à toutes les parties du corps :   mains, pieds, etc.<br/><br/>Le Karaté   enfant est un véritable outil d’éveil et d’éducation. Les enchainements de   techniques lui permettent de développer réflexes, coordination et de se   repérer dans l’espace. La concentration, inhérente au Karaté, permet à   l’enfant de canaliser son énergie. Son évolution sportive et la socialisation   due à la pratique augmente sa confiance en lui.</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>

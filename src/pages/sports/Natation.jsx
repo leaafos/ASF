@@ -16,8 +16,8 @@ const Natation = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>La natation est un sport complet qui allie endurance, force et technique. Pratiquée dans l'eau, elle offre une variété de styles de nage tels que la brasse, le crawl, le dos et le papillon, permettant de travailler l'ensemble des muscles du corps tout en améliorant la condition physique et la santé cardiovasculaire. La natation est également reconnue pour ses bienfaits relaxants et thérapeutiques.<br/><br/>Notre section de natation au sein de l'association sportive propose un cadre accueillant et professionnel pour tous les âges et niveaux. Nos entraîneurs qualifiés sont dédiés à développer les compétences techniques et l'endurance, tout en instillant une passion pour la natation.<br/><br>Les séances d'entraînement sont structurées pour progresser de manière individuelle, tout en offrant des programmes adaptés aux différents niveaux de compétence. Nous organisons également des compétitions internes et participons à des compétitions locales et régionales, offrant ainsi à nos membres l'opportunité de se mesurer à d'autres nageurs et de progresser.</br><br/>Que vous soyez novice souhaitant apprendre les bases de la natation ou nageur expérimenté cherchant à perfectionner votre technique et votre vitesse, notre section de natation vous propose des programmes adaptés à vos besoins et objectifs. Rejoignez-nous pour partager la passion de la natation et vivre des moments inoubliables dans l’eau !</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,7 +28,7 @@ const Natation = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>BEBES NAGEURS 3 A 6 MOIS</h4>
+                    <h4>BÉBÉS NAGEURS 3 À 6 MOIS</h4>
                     <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
                     <p><b>SAMEDI 09H00-09H30<br/>SAMEDI 9H30-10H00<br/>SAMEDI 10H00-10H30</b></p>
                 </div>
@@ -40,13 +40,13 @@ const Natation = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>JEUNES 9 A 18 ANS</h4>
+                    <h4>JEUNES 9 À 18 ANS</h4>
                     <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H15-19H15<br/>MARDI 19H00-20H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>JEUNES 6 A 9 ANS</h4>
+                    <h4>JEUNES 6 À 9 ANS</h4>
                     <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
                     <p><b>JEUDI 17H00-18H00<br/>JEUDI 18H00-190H00<br/>VENDREDI 17H00-18H00</b></p>
                 </div>
@@ -76,7 +76,7 @@ const Natation = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>LES AÎNES</h4>
+                    <h4>LES AÎNÉS</h4>
                     <p><b>PISCINE MUNICIPALE DE FONTENAY</b><br /><br />22 rue jean jaurès, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 11H30-12H30<br/>LUNDI 12H30-13H30<br/>LUNDI 16H00-17H00</b></p>
                 </div>
@@ -92,11 +92,11 @@ const Natation = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>BEBES NAGEURS FONTENAISIENS</b></p>
+                        <p><b>BÉBÉS NAGEURS FONTENAISIENS</b></p>
                         <p className='prix-cotisation'><b>260€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>BEBES NAGEURS HORS COMMUNE</b></p>
+                        <p><b>BÉBÉS NAGEURS HORS COMMUNE</b></p>
                         <p className='prix-cotisation'><b>280€</b></p>
                     </div>
                     <div className='case-cotisation'>
@@ -110,12 +110,12 @@ const Natation = () => {
                         <p className='prix-cotisation'><b>170€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>JEUNES 6 A 18 ANS FONTENAISIENS</b></p>
+                        <p><b>JEUNES 6 À 18 ANS FONTENAISIENS</b></p>
                         <p className='prix-cotisation'><b>150€</b></p>
                         <p>(1H PAR SEMAINE)</p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>JEUNES 6 A 18 ANS HORS COMMUNE</b></p>
+                        <p><b>JEUNES 6 À 18 ANS HORS COMMUNE</b></p>
                         <p className='prix-cotisation'><b>160€</b></p>
                         <p>(1H PAR SEMAINE)</p>
                     </div>
@@ -164,11 +164,11 @@ const Natation = () => {
                         <p className='prix-cotisation'><b>480€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>LES AÎNES FONTENAISIENS</b></p>
+                        <p><b>LES AÎNÉS FONTENAISIENS</b></p>
                         <p className='prix-cotisation'><b>162€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>LES AÎNES HORS COMMUNE</b></p>
+                        <p><b>LES AÎNÉS HORS COMMUNE</b></p>
                         <p className='prix-cotisation'><b>183€</b></p>
                     </div>
                 </div>
@@ -176,7 +176,7 @@ const Natation = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENT BRUNO GUIDAL : </h4>
+                <h4>PRÉSIDENT BRUNO GUIDAL : </h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> asf-natation@hotmail.fr</span>
             </div>

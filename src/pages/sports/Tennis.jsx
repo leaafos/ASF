@@ -16,8 +16,8 @@ const Tennis = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>Le tennis est un sport de raquette populaire et polyvalent qui se joue en simple ou en double sur des terrains en dur, en gazon ou en terre battue. Ce sport combine technique, endurance et stratégie, avec pour objectif de frapper une balle au-dessus d’un filet pour qu’elle atterrisse dans le terrain adverse, rendant la balle difficile à retourner pour l’adversaire.<br/><br/>Notre section de tennis au sein de l'association sportive offre un environnement accueillant et dynamique pour tous les âges et niveaux. Nos entraîneurs qualifiés sont dédiés à développer les compétences techniques, la condition physique et la stratégie de jeu, tout en encourageant le fair-play et la passion pour le tennis.<br/><br/>Les séances d'entraînement sont conçues pour progresser individuellement, avec des exercices adaptés pour améliorer le service, le coup droit, le revers, et le jeu de jambes. Nous organisons également des tournois internes et participons à des compétitions locales et régionales, offrant ainsi à nos membres l'opportunité de se mesurer à d'autres joueurs et de progresser.<br/><br/>Que vous soyez débutant cherchant à découvrir les bases du tennis ou joueur expérimenté visant à perfectionner votre technique et votre stratégie, notre section de tennis vous propose des programmes adaptés à vos besoins et objectifs. Rejoignez-nous pour partager la passion du tennis et vivre des moments sportifs inoubliables sur le court !</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,7 +28,7 @@ const Tennis = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>TOUTES LES CATEGORIES</h4>
+                    <h4>TOUTES LES CATÉGORIES</h4>
                     <p><b>TENNIS MUNICIPAUX <br/>COURTS COUVERTS PANORAMA</b><br /><br />21 Bd de Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 17H00-22H00<br/>MARDI 17H00-22H00<br/>JEUDI 17H00-22H00<br/>VENDREDI 17H00-22H00<br/>MERCREDI 09H00-22H00<br/>SAMEDI 09H00-18H00<br/></b></p>
                 </div>

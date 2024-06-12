@@ -16,7 +16,7 @@ const Escrime = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>L’escrime est un sport pour tous. Avec son équipement identique pour tout le monde (un masque, une veste et une arme) il n’exclut pas, permet la mixité et l’égalité des chances.<br/><br/>L’escrime est un sport de combat. Il s’agit de l’art de toucher un   adversaire avec la pointe ou le tranchant (estoc et taille) d’une arme   blanche sur les parties valables sans être touché.<br/><br/>On utilise trois types d’armes : l’épée, le sabre et le fleuret. Ces trois armes sont mixtes. Les épreuves sont individuelles ou par équipes.</p>
             </div>
             <div className='entrainements'>
@@ -28,13 +28,13 @@ const Escrime = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>ENFANTS A PARTIR DE 5 ANS</h4>
-                    <p><b>(EN COURS DE MISE A JOUR)</b></p>
+                    <h4>ENFANTS À PARTIR DE 5 ANS</h4>
+                    <p><b>(EN COURS DE MISE À JOUR)</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                 <h4>ADOS/ADULTES</h4>
-                    <p><b>(EN COURS DE MISE A JOUR)</b></p>
+                    <p><b>(EN COURS DE MISE À JOUR)</b></p>
                 </div>
             </div>
             <h2>INSCRIPTIONS</h2>
@@ -46,12 +46,12 @@ const Escrime = () => {
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='cotisations'>
-                <h4>(EN COURS DE MISE A JOUR)</h4>
+                <h4>(EN COURS DE MISE À JOUR)</h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENTE MARIE NAPOLITANO :</h4>
+                <h4>PRÉSIDENTE MARIE NAPOLITANO :</h4>
                 <div className='infos-contact'>
                     <span className='label'>Mail : </span>
                     <span className='email'> escrimepourtous@gmail.com</span>

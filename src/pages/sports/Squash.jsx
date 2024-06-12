@@ -16,8 +16,8 @@ const Squash = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
-                <p>Sessions de 45 minutes. <br/><br/>Réservations via l'a^pplication "MonClub".</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>Sessions de 45 minutes. <br/><br/>Réservations via l'application "MonClub".<br/>Le squash est un sport de raquette intense et dynamique qui se joue en intérieur sur un court fermé. Les joueurs utilisent des raquettes pour frapper une petite balle en caoutchouc contre les murs, avec pour objectif de rendre la balle difficile à retourner pour l'adversaire. Ce sport exige une grande rapidité, de la précision et une excellente condition physique.<br/><br/>Notre section de squash au sein de l'association sportive offre un cadre accueillant et motivant pour les joueurs de tous âges et niveaux. Nos entraîneurs expérimentés sont passionnés par l'enseignement et s'engagent à développer les compétences techniques et stratégiques des joueurs, tout en favorisant le plaisir du jeu.<br/><br/>Les séances d'entraînement sont conçues pour améliorer l'agilité, la coordination et la réactivité, tout en offrant des opportunités de jeu libre et de compétitions amicales. Nous organisons également des tournois internes et participons à des compétitions locales, permettant à nos membres de se mesurer à d'autres joueurs et de progresser.<br/><br/>Que vous soyez débutant souhaitant découvrir les bases du squash ou joueur confirmé cherchant à perfectionner votre technique et votre stratégie, notre section de squash vous propose des programmes adaptés à vos besoins et objectifs. Rejoignez-nous pour partager la passion du squash et vivre des moments sportifs inoubliables sur le court !</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -52,15 +52,15 @@ const Squash = () => {
                 <h4>1 TERRAIN POUR 2 JOUEURS</h4>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>1 TICKET DE RESERVATION</b></p>
+                        <p><b>1 TICKET DE RÉSERVATION</b></p>
                         <p className='prix-cotisation'><b>10€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>10 TICKETS DE RESERVATION</b></p>
+                        <p><b>10 TICKETS DE RÉSERVATION</b></p>
                         <p className='prix-cotisation'><b>90€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>COTISATION ANNUELLE ILLIMITEE</b></p>
+                        <p><b>COTISATION ANNUELLE ILLIMITÉE</b></p>
                         <p className='prix-cotisation'><b>230€</b></p>
                     </div>
                 </div>

@@ -16,8 +16,8 @@ const Capoeira = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
-                <p>PDe 3 à 6 ans : éveil de la capoeira, travaille de la motricité, de l'autonomie mentale et physique, de la confiance en soi. < br/> De 6 à 10 ans : travaille de la confiance en soi, de l'agilité, de la souplesse et la vision panoramique, de la force mentale et physique et des responsabilités du groupes. <br/>De 11 à 14 ans : travaille de l'agilité, de la souplesse, de la force et de la rapidité physique et mentale et des responsabilités du groupe.<br/>De 15 ans à adulte : Travaille de la perfection, l’acquisition de l'expérience dans la capoeira.<br/>A tout âge travaille du chant et des jeux.</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>De 3 à 6 ans : éveil de la capoeira, travaille de la motricité, de l'autonomie mentale et physique, de la confiance en soi. < br/> De 6 à 10 ans : travaille de la confiance en soi, de l'agilité, de la souplesse et la vision panoramique, de la force mentale et physique et des responsabilités du groupes. <br/>De 11 à 14 ans : travaille de l'agilité, de la souplesse, de la force et de la rapidité physique et mentale et des responsabilités du groupe.<br/>De 15 ans à adulte : Travaille de la perfection, l’acquisition de l'expérience dans la capoeira.<br/>A tout âge travaille du chant et des jeux.</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,13 +28,13 @@ const Capoeira = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>3 A 6 ANS</h4>
+                    <h4>3 À 6 ANS</h4>
                     <p><b>SALLE POLYVALENTE</b><br /><br />Gymnase du Parc 7 avenue du Parc 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 18H00-19H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>7 A 13 ANS</h4>
+                    <h4>7 À 13 ANS</h4>
                     <p><b>GYMNASE</b><br /><br />Gymnase de pervenches 20B Rue Durand Bénech, 92260 Fontenay-aux-Roses</p>
                     <p><b>VENDREDI 17H30-18H30</b></p>
                 </div>
@@ -57,7 +57,7 @@ const Capoeira = () => {
             <div className='cotisations'>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>3 A 13 ANS</b></p>
+                        <p><b>3 À 13 ANS</b></p>
                         <p className='prix-cotisation'><b>195€</b></p>
                     </div>
                     <div className='case-cotisation'>

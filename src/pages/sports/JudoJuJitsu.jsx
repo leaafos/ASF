@@ -16,7 +16,7 @@ const JudoJuJitsu = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>Le Judo est un Art Martial, un sport de combat, mais aussi et surtout (comme le voulait son fondateur Jigoro Kano) une école de la vie  dictée par un code moral. Son respect est la condition première de la pratique du judo. Il est fait de valeurs essentielles applicables aussi bien sur le « tatami » que dans la vie de tous les jours : <br/><br/>- La politesse : C’est le respect d’autrui<br/>- Le courage : C’est faire ce qui est juste<br/>- La sincérité : C’est s’exprimer sans déguiser sa pensée<br/>- L’honneur : C’est être fidèle à la parole donnée<br/>- La modestie : C’est parler de soi sans orgueil <br/>- Le respect : C’est faire naitre la confiance<br/> - Le contrôle de soi : C’est faire taire sa colère<br/> - L’amitié : C’est le plus pur des sentiments humains.<br/><br/>Club affilié à la Fédération Française de Judo et Disciplines Associées (F.F.J.D.A).</p>
             </div>
             <div className='entrainements'>
@@ -28,19 +28,19 @@ const JudoJuJitsu = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>EVEILS JUIL. A DEC. 2018/2019</h4>
+                    <h4>ÉVEILS JUIL. À DEC. 2018/2019</h4>
                     <p><b>DOJO 2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 17H00-18H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>EVEILS CONFIRMES JANV. A JUIN. 2018</h4>
+                    <h4>ÉVEILS CONFIRMÉS JANV. À JUIN. 2018</h4>
                     <p><b>DOJO 2 <br/> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 16H00-17H00<br/>MARDI 17H45-18H45<br/>VENDREDI 17H45-18H45</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>PRE-POUSSINS 2016 - 2017</h4>
+                    <h4>PRÉ-POUSSINS 2016 - 2017</h4>
                     <p><b>DOJO 2 <br /> DOJO 1+2</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 16H00-17H00<br/>MARDI 17H45-18H45<br/>VENDREDI 17H45-18H45</b></p>
                 </div>
@@ -92,21 +92,21 @@ const JudoJuJitsu = () => {
             <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>EVEIL (JUIL. A DEC. 2018 - 2019)</b></p>
+                        <p><b>ÉVEIL (JUIL. À DEC. 2018 - 2019)</b></p>
                         <p className='prix-cotisation'><b>241€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>EVEILS CONFIRMES (JANV. A JUIN 2018)</b></p>
+                        <p><b>ÉVEILS CONFIRMÉS (JANV. À JUIN 2018)</b></p>
                         <p className='prix-cotisation'><b>275€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>PRE-POUSSINS ET POUSSINS (2014 A 2017)</b></p>
+                        <p><b>PRÉ-POUSSINS ET POUSSINS (2014 À 2017)</b></p>
                         <p className='prix-cotisation'><b>275€</b></p>
                     </div>
                 </div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>BENJAMINS ET MINIMES (2010 A 2013)</b></p>
+                        <p><b>BENJAMINS ET MINIMES (2010 À 2013)</b></p>
                         <p className='prix-cotisation'><b>288€</b></p>
                     </div>
                     <div className='case-cotisation'>

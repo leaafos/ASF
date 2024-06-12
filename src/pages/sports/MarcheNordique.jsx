@@ -16,7 +16,7 @@ const MarcheNordique = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>La marche nordique est une autre conception de la marche, beaucoup plus active. <br/><br/>Le principe est simple : il s'agit d'accentuer le mouvement naturel des bras pendant la marche et de propulser le corps vers l'avant à l'aide de deux bâtons qui permettent d'aller plus vite et plus loin. L'ensemble du corps entre en action et la dépense d'énergie est accrue. En raison d'une technicité simple et d'un apprentissage peu fastidieux, la plaisir dela pratique est présent dès le début. <br/><br/>Par sa facilité et par sa dimension "Sport - Santé", la marche nordique s'adresse à tout le monde quels que soient l'âge ou la condition physique. Des adolescents aux retraités en passant par les sportifs confirmés, ce qui fait d'elle une discipline très conviviale et familiale. <br/><br/></p>
             </div>
             <h4>LES BIENFAITS DE LA MARCHE NORDIQUE</h4>
@@ -52,13 +52,13 @@ const MarcheNordique = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENT DOMINIQUE CALASSOU : </h4>
+                <h4>PRÉSIDENT DOMINIQUE CALASSOU : </h4>
                 <span className='label'>Téléphone : </span>
                 <span className='email'> 06 03 45 20 13</span>
             </div>
             <div className='contacts'>
-                <h4>FREDERIQUE MAIRET : </h4>
-                <span className='label'>Télephone : </span>
+                <h4>FRÉDÉRIQUE MAIRET : </h4>
+                <span className='label'>Téléphone : </span>
                 <span className='email'>06 83 96 55 85</span>
             </div>
             <div className='contacts'>

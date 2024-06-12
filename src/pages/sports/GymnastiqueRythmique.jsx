@@ -16,7 +16,7 @@ const GymnastiqueRythmique = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>La Gymnastique Rythmique, discipline esthétique et   chorégraphique, développe le rythme, l’habilité, la souplesse et la   coordination. <br/>Ballons, Cordes, Cerceaux, Rubans et Massues :<br/><br/>La manipulation de ces engins fait appel à la grâce,   l’expressivité et la créativité.</p>
             </div>
             <div className='entrainements'>
@@ -52,13 +52,13 @@ const GymnastiqueRythmique = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>- DE 10 ANS COMPETITION</h4>
+                    <h4>- DE 10 ANS COMPÉTITION</h4>
                     <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>SAMEDI 09H00-11H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>10 - 14 ANS COMPETITION</h4>
+                    <h4>10 - 14 ANS COMPÉTITION</h4>
                     <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>SAMEDI 11H00-13H00</b></p>
                 </div>
@@ -70,7 +70,7 @@ const GymnastiqueRythmique = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>COMPETIITON</h4>
+                    <h4>COMPÉTIITON</h4>
                     <p><b>HALLE</b><br /><br />Gymnase collège Les Ormeaux 15 Rue d'Estienne d'Orves, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 18H00-20H00</b></p>
                 </div>
@@ -117,7 +117,7 @@ const GymnastiqueRythmique = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENTE MYRIAM MONTLOUIS : </h4>
+                <h4>PRÉSIDENTE MYRIAM MONTLOUIS : </h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> asf92.gym.rythmique@gmail.com</span>
             </div>

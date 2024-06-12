@@ -59,7 +59,7 @@ const Badminton = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>ADULTES COMPETITIONS</h4>
+                    <h4>ADULTES COMPÉTITIONS</h4>
                     <p><b>HALLE</b><br /><br />Gymnase  Les Ormeaux 1 Rue André Neyts, 92260 Fontenay-aux-Roses</p>
                     <p><b>MERCREDI 20H00-22H30</b></p>
                 </div>
@@ -71,7 +71,7 @@ const Badminton = () => {
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>LOISIR DEBUTANT</h4>
+                    <h4>LOISIR DÉBUTANT</h4>
                     <p><b>HALLE</b><br /><br />Stade du Panorama 21 Bd du Moulin de la Tour, 92260 Fontenay-aux-Roses</p>
                     <p><b>DIMANCHE 10H00-12H00</b></p>
                 </div>
@@ -91,13 +91,13 @@ const Badminton = () => {
                         <p className='prix-cotisation'><b>150€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>9 A 18 ANS ET ETUDIANTS</b></p>
-                        <p><i>1séance/semaine</i></p>
+                        <p><b>9 À 18 ANS ET ÉTUDIANTS</b></p>
+                        <p><i>1 séance/semaine</i></p>
                         <p className='prix-cotisation'><b>170€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>9 A 18 ANS</b></p>
-                        <p><i>1séance/semaine</i></p>
+                        <p><b>9 À 18 ANS</b></p>
+                        <p><i>1 séance/semaine</i></p>
                         <p className='prix-cotisation'><b>220€</b></p>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ const Badminton = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>PRESIDENT GOEFFREY GUYOT :</h4>
+                <h4>PRÉSIDENT GOEFFREY GUYOT :</h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> bureau@asf.fr</span>
                 <span className='label'>Téléphone : </span>

@@ -16,7 +16,7 @@ const TaeKwonDo = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>La section ASF Taekwondo a développé une catégorie Baby Taekwondo pour les enfants âgés de 3 à 5 ans. À cet âge où l’énergie est parfois débordante, le Taekwondo représente une vraie solution. En effet, cet art martial permet d’apprendre à se mouvoir plus efficacement et aborde les techniques de base du Taekwondo. Ainsi, parcours de motricité, assouplissements, premières frappes sur cible et légers renforcements musculaires sont au programme des séances pour les petits baptisés « Babys ninjas ». Cet Art Martial s'adresse aussi aux plus grands, en favorisant l’apprentissage par la technique et le combat.</p>
             </div>
             <div className='entrainements'>
@@ -41,7 +41,7 @@ const TaeKwonDo = () => {
                 {/*<hr className='ligne'></hr>*/}
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>BABY NINJAS 5-6 ANS</h4>
+                    <h4>BABY NINJAS 5 - 6 ANS</h4>
                     <p><b>HALLE</b><br /><br />Gymnase de la Roue, 10 Rue des Hautes Sorcières, 92260 Fontenay-aux-Roses<br/><br /><b>DOJO 1</b><br /><br />Gymnase Jean Fournier 7 Rue des Potiers, 92260 Fontenay-aux-Roses</p>
                     <p><b>LUNDI 17H30-18H30<br />SAMEDI 11H15-12H15</b></p>
                 </div>
@@ -75,11 +75,11 @@ const TaeKwonDo = () => {
             <div>
                 <div className='ligne-cotisations'>
                     <div className='case-cotisation'>
-                        <p><b>BABY NINJA 3 A 6 ANS / GRANDS NINJAS 6 A 10 ANS</b></p>
+                        <p><b>BABY NINJA 3 À 6 ANS / GRANDS NINJAS 6 À 10 ANS</b></p>
                         <p className='prix-cotisation'><b>270€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>ADOS 11 A 15 ANS</b></p>
+                        <p><b>ADOS 11 À 15 ANS</b></p>
                         <p className='prix-cotisation'><b>300€</b></p>
                     </div>
                     <div className='case-cotisation'>
@@ -87,7 +87,7 @@ const TaeKwonDo = () => {
                         <p className='prix-cotisation'><b>330€</b></p>
                     </div>
                 </div>
-                <h4>REMISE DE 10% A PARTIR DU 2EME ENFANT LORS DE L'INSCRIPTION EN LIGNE SUR MONCLUB AVEC LE CODE DE REMISE FRATERIE10</h4>
+                <h4>REMISE DE 10% À PARTIR DU 2EME ENFANT LORS DE L'INSCRIPTION EN LIGNE SUR MONCLUB AVEC LE CODE DE REMISE FRATERIE10</h4>
             </div>
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>

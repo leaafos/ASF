@@ -1,6 +1,10 @@
 import React from 'react';
 import "../../styles/sports.css";
 
+
+{/*PAGE VIDE - PLUS DE PETANQUE SUR LE SITE */}
+
+
 const Petanque = () => {
   return (
     <div>
@@ -16,7 +20,7 @@ const Petanque = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>Pas de texte</p>
             </div>
             <div className='entrainements'>

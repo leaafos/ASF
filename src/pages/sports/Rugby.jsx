@@ -16,8 +16,8 @@ const Rugby = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>PAS DE TEXTE</h4>
-                <p>Pas de texte</p>
+                <h4>COURS ENSEIGNÉS</h4>
+                <p>Le rugby est un sport d'équipe intense et stratégique qui combine force, agilité et esprit de camaraderie. Joué sur un terrain rectangulaire, le rugby met en scène deux équipes de quinze joueurs chacune (ou sept dans la variante à 7), dont l'objectif est de marquer des points en portant ou en bottant le ballon ovale dans l'en-but adverse. Ce sport développe non seulement les capacités physiques mais aussi la coopération et l'esprit d'équipe.<br/><br/>Notre section de rugby au sein de l'association sportive offre un environnement stimulant et inclusif pour tous les âges et niveaux. Nos entraîneurs qualifiés sont dédiés à perfectionner les compétences techniques individuelles telles que la passe, le plaquage et la mêlée, tout en renforçant les tactiques de jeu collectif.<br/><br/>Les entraînements sont structurés pour améliorer la condition physique, la coordination et la prise de décision rapide. Nous mettons également l'accent sur le fair-play et l'esprit de camaraderie. Des matchs amicaux et des tournois internes sont régulièrement organisés, ainsi que des participations à des compétitions locales et régionales.<br/><br/>Que vous soyez débutant cherchant à découvrir les bases du rugby ou joueur expérimenté visant à affiner votre technique et votre stratégie, notre section de rugby vous propose des programmes adaptés à vos besoins et objectifs. Rejoignez-nous pour partager la passion du rugby et vivre des moments inoubliables sur le terrain !</p>
             </div>
             <div className='entrainements'>
                 <div className='titre-entrainements'>
@@ -28,44 +28,44 @@ const Rugby = () => {
                 </div>
                 <hr className='ligne-titre'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>BABY RUGBY A PARTIR DE 3 ANS</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <h4>BABY RUGBY À PARTIR DE 3 ANS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MERCREDI 14H00-15H00<br/>MERCREDI 15H00 - 16H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U6 (2018)</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MERCREDI 14H00-16H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>U8 (2016 - 2017)<br/>U10 (2014 - 2015)<br/>U12 (2012 - 2013)</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MERCREDI 14H00-16H00<br/>SAMEDI 10H00 - 11H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>RUGBY ADAPTE 9 - 12 ANS</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <h4>RUGBY ADAPTÉ 9 - 12 ANS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MERCREDI 09H30-10H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>RUGBY ADAPTE SENIORS</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <h4>RUGBY ADAPTÉ SENIORS</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>JEUDI 20H00-22H00</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
-                    <h4>RUGBY A 5 MIXTE</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <h4>RUGBY À 5 MIXTE</h4>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MARDI 20H00-22H00<br/>SAMEDI 10H00 - 11H30</b></p>
                 </div>
                 <hr className='ligne'></hr>
                 <div className='entrainement-ligne'>
                     <h4>FOLKLOS (+ 35 ANS)</h4>
-                    <p><b>TERRAIN EN HERBE <br/>COULEE VERTE</b></p>
+                    <p><b>TERRAIN EN HERBE <br/>COULÉE VERTE</b></p>
                     <p><b>MERCREDI 20H00-22H00<br/>DIMANCHE 10H00 - 12H00</b></p>
                 </div>
             </div>
@@ -88,7 +88,7 @@ const Rugby = () => {
                         <p className='prix-cotisation'><b>210€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>SENIORS</b></p>
+                        <p><b>SÉNIORS</b></p>
                         <p className='prix-cotisation'><b>250€</b></p>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ const Rugby = () => {
                         <p className='prix-cotisation'><b>220€</b></p>
                     </div>
                     <div className='case-cotisation'>
-                        <p><b>RUGBY A 5 MIXTE</b></p>
+                        <p><b>RUGBY À 5 MIXTE</b></p>
                         <p className='prix-cotisation'><b>130€</b></p>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ const Rugby = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ECOLE DE RUGBY : TONY VALIER-BRASIER</h4>
+                <h4>ÉCOLE DE RUGBY : TONY VALIER-BRASIER</h4>
                 <span className='label'>Mail : </span>
                 <span className='email'> edr.fontenay@gmail.com</span>
                 <span className='label'>Téléphone : </span>
@@ -121,12 +121,12 @@ const Rugby = () => {
                 <span className='email'>06 99 51 15 32</span>
             </div>
             <div className='contacts'>
-                <h4>RUGBY A 5 MIXTE : PIERRE CHOUTEAU</h4>
+                <h4>RUGBY À 5 MIXTE : PIERRE CHOUTEAU</h4>
                 <span className='label'>Téléphone : </span>
                 <span className='email'>06 84 96 96 62</span>
             </div>
             <div className='contacts'>
-                <h4>RUGBY SENIORS : STEPAHNIE LECUYER</h4>
+                <h4>RUGBY SÉNIORS : STÉPAHNIE LECUYER</h4>
                 <span className='label'>Téléphone : </span>
                 <span className='email'>06 84 10 44 49</span>
                 <span className='label'>Réseaux sociaux : </span>

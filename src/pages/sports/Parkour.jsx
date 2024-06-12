@@ -16,7 +16,7 @@ const Parkour = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>Le parkour, ou art du déplacement est une discipline   sportive acrobatique qui consiste à franchir des obstacles urbains ou   naturels, par des mouvements rapides et agiles (course à pied, sauts, gestes   d’escalade, déplacements en équilibre, etc.) et sans l'aide de matériel.</p>
             </div>
             <div className='entrainements'>

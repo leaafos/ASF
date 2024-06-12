@@ -16,7 +16,7 @@ const KungFu = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>Au-delà du développement corporel (souplesse, force, coordination, vitesse, endurance, équilibre), la pratique du kung fu enseigne : <br/><br/>•	Le respect des professeurs et des camarades <br/>•	La solidarité et l'entraide <br/>•	L’application dans le travail <br/>•	L'auto-discipliné <br/>•	La confiance en soi et l'estime de soi<br/>•	Le courage et la ténacité <br/><br/>Sur le plan technique, il s'agit de maîtriser les postures fondamentales, les coups de poings et de pieds de base, les déplacements. En complément, des exercices avec un partenaire sont proposés.</p>
             </div>
             <div className='entrainements'>

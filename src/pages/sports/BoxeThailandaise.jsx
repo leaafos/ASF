@@ -16,7 +16,7 @@ const BoxeThailandaise = () => {
             <h2>QUELQUES INFORMATIONS</h2>
             <hr className='ligne-titre'></hr>
             <div className='methodes'>
-                <h4>COURS ENSEIGNES</h4>
+                <h4>COURS ENSEIGNÉS</h4>
                 <p>Cet Art Martial associant des techniques de coups de pieds et de coups de poings est la boxe la plus complète pour vous défouler et apprendre à vous défendre dans n'importe quelle situation. < br/>Cet Art Martial permet d'avoir des enchaînements très variés et un art du combat à la fois dense et complet.<br/>La section s'adresse à tous les sportifs souhaitant apprendre la discipline dans une ambiance conviviale. Débutants ou confirmés, tous les cours sont mixtes et adaptés au niveau de chacun</p>
             </div>
             <div className='entrainements'>
@@ -52,7 +52,7 @@ const BoxeThailandaise = () => {
             <h2>CONTACTS / RENSEIGNEMENTS</h2>
             <hr className='ligne-titre'></hr>
             <div className='contacts'>
-                <h4>ASF ATHLETISME</h4>
+                <h4>ASF ATHLÉTISME</h4>
                 <div className='infos-contact'>
                     <span className='label'>Mail : </span>
                     <span className='email'> asftkd@gmail.com <br/></span>
