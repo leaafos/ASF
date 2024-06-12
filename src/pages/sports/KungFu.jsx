@@ -50,7 +50,11 @@ const KungFu = () => {
             <hr className='ligne-titre'></hr>
             <div className='inscription'>
                 <h4>INSCRIPTION POSSIBLE VIA LE LIEN SUIVANT :</h4>
-                <span className='lien'>LIEN D'INSCRIPTION</span>
+                <span className='lien'>
+                    <a href="https://asfontenaisienne.monclub.app/">
+                       LIEN D'INSCRIPTION 
+                    </a>
+                </span>
             </div>
             <h2>COTISATIONS</h2>
             <hr className='ligne-titre'></hr>

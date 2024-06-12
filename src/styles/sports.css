@@ -317,6 +317,11 @@ h4 {
     text-decoration: underline;
 }
 
+.lien a, .btn {
+    color:#0913B1;
+    text-decoration: none;
+}
+
 .cotisations {
     width: 100%;
     display: flex;
