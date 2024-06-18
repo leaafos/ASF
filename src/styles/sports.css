@@ -300,16 +300,20 @@ h4 {
     max-width: 25%;
 }
 
-.inscription {
+.bloc {
+    margin-bottom: 16px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-right: 18%;
+    justify-content: flex-start;
+    gap: 32px;
+    align-items: flex-start;
 }
 
-.inscription h4 {
-    color: #0913B1;
-    width: 50%;
+.bloc div {
+    margin-top: 12px;
+}
+
+.h4 {
+    min-width: 40%;
 }
 
 .lien {
@@ -318,7 +322,7 @@ h4 {
 }
 
 .lien a, .btn {
-    color:#0913B1;
+    color:#B8BCEF;
     text-decoration: none;
 }
 
@@ -358,6 +362,37 @@ h4 {
 
 .prix-cotisation-gym {
     font-size: 24px;
+}
+
+.menu-deroulant {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.menu-deroulant span {
+    margin-left: 12px;
+    margin-bottom: 4px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.autres-moyens p {
+    color: black;
+}
+
+.remise {
+    background-image: url("../images/Sports/ampoule.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.remise h4 {
+    margin-left: 36px;
+}
+
+.gras {
+    color: #0913B1;
 }
 
 .contacts {
@@ -417,7 +452,7 @@ h4 {
         width: 100%;
         margin-right: 5%;
     }
-    
+
     .cotisation {
         display: block;
     }
@@ -455,6 +490,10 @@ h4 {
     .entrainement-ligne {
         width: 100%;
         margin-right: 5%;
+    }
+
+    .bloc {
+        display: block;
     }
 
     .cotisations {
@@ -530,7 +569,7 @@ h4 {
         margin-right: 0%;
     }
 
-    .inscription {
+    .bloc {
         display: block;
     }
 
